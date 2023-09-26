@@ -49,6 +49,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+		docs: {
+			sidebar: {
+			  hideable: true,
+			  autoCollapseCategories: true,
+			},
+		  },
 		sidebar: {
 			// ...
 			// Add a mapping for the index page to hide it
