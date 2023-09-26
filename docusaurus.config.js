@@ -58,12 +58,13 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
+            type: 'docSidebar',
+			sidebarId: 'docsSidebar',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'about', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
