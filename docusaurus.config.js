@@ -49,6 +49,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+		sidebar: {
+			// ...
+			// Add a mapping for the index page to hide it
+			'/': false, // This hides the index page
+			// ...
+		  },
       navbar: {
         title: 'dantonik',
         // logo: {
