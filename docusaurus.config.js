@@ -49,7 +49,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-		home: '.index',
 		docs: {
 			sidebar: {
 			  hideable: true,
