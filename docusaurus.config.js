@@ -51,18 +51,18 @@ const config = {
     ({
       navbar: {
         title: 'dantonik',
-        logo: {
-          alt: 'dantonik logo',
-          src: 'img/logo.svg',
-        },
+        // logo: {
+        //   alt: 'dantonik logo',
+        //   src: 'img/logo.svg',
+        // },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+        //   {
+        //     type: 'doc',
+        //     docId: 'intro',
+        //     position: 'left',
+        //     label: 'Tutorial',
+        //   },
+        //   {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

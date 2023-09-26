@@ -1,9 +1,9 @@
 ---
 slug: /
-title: Knowledge Hub
+title: home
 sidebar_class_name: hidden
 ---
 
-# dantonik
+# Knowledge Hub
 
 Test page
