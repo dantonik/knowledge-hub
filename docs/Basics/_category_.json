@@ -2,6 +2,6 @@
 	"label": "Basics",
 	"position": 1,
 	"customProps": {
-	  "sidebar_pathname": "Basics"
+	"sidebar_pathname": "Basics"
 	}
-  }
+}

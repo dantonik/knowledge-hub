@@ -1,6 +1,0 @@
----
-title: about
-sidebar_class_name: hidden
----
-
-# about

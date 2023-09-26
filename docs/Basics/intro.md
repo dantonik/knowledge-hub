@@ -1,7 +1,7 @@
 ---
 slug: /
 title: introduction
-sidebar_label: Overview
+sidebar_label: introduction
 sidebar_position: 1
 ---
 
