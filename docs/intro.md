@@ -1,7 +1,8 @@
 ---
 slug: /
+title: introduction
 ---
 
-# Knowledge Hub
+# Introduction
 
 Test page

@@ -56,10 +56,9 @@ const config = {
 			},
 		  },
 		sidebar: {
-			// ...
-			// Add a mapping for the index page to hide it
-			'/': false, // This hides the index page
-			// ...
+			'/': false,
+			'/contact': false,
+			'/about': false,
 		  },
       navbar: {
         title: 'dantonik',
