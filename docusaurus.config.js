@@ -50,9 +50,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'dantonik',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'dantonik logo',
           src: 'img/logo.svg',
         },
         items: [

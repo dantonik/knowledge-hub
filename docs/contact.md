@@ -1,6 +1,5 @@
 ---
-title: about
+title: contact
 sidebar_class_name: hidden
 ---
-
-# about
+# contact
