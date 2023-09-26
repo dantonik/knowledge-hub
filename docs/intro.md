@@ -1,6 +1,5 @@
 ---
 slug: /
-title: home
 ---
 
 # Knowledge Hub
