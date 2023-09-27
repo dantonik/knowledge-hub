@@ -1,0 +1,7 @@
+{
+	"label": "Databases",
+	"position": 1,
+	"customProps": {
+	"sidebar_pathname": "Databases"
+	}
+}
