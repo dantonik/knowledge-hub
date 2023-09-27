@@ -13,3 +13,5 @@ Communication standards to talk to your harddisk
 - (P)ATA
 - SATA
 - SCSI - Small Computer System Interface
+
+LBA - Logical Block Addressing
