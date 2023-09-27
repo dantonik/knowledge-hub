@@ -54,11 +54,11 @@ const config = {
 			},
 		  },
       navbar: {
-		  logo: {
-			alt: 'dantonik logo',
-			src: 'img/logo.png',
-		  },
-        title: 'dantonik',
+		  title: 'dantonik',
+		//   logo: {
+		// 	alt: 'dantonik logo',
+		// 	src: 'img/logo.png',
+		//   },
         items: [
         //   {
         //     type: 'doc',
@@ -66,12 +66,12 @@ const config = {
         //     position: 'left',
         //     label: 'Tutorial',
         //   },
-          {to: '/about', label: 'about', position: 'left'},
-		  {
-            href: 'https://linkedin.com/in/dantonik/',
-            label: 'LinkedIn',
-            position: 'right',
-          },
+        //   {to: '/about', label: 'about', position: 'left'},
+		//   {
+        //     href: 'https://linkedin.com/in/dantonik/',
+        //     label: 'LinkedIn',
+        //     position: 'right',
+        //   },
           {
             href: 'https://github.com/dantonik/',
             label: 'GitHub',
