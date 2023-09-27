@@ -21,3 +21,13 @@ import TabItem from '@theme/TabItem';
 		Test3
 	</TabItem>
 </Tabs>
+
+:::note
+Some ***note***
+:::
+
+:::tip
+
+Some ***tip***
+
+:::
