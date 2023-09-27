@@ -35,9 +35,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
 		  routeBasePath: "/",
-          exclude: [
-			'**/intro.md',
-		  ],
         },
         blog: false,
         theme: {
@@ -53,13 +50,11 @@ const config = {
 		docs: {
 			sidebar: {
 			  hideable: true,
-			  autoCollapseCategories: true,
+			  autoCollapseCategories: false,
+			  '/': false,
+			  '/contact': false,
+			  '/about': false,
 			},
-		  },
-		sidebar: {
-			'/': false,
-			'/contact': false,
-			'/about': false,
 		  },
       navbar: {
         title: 'dantonik',
