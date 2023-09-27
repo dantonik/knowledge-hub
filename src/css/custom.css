@@ -33,6 +33,14 @@ hidden {
 	display: none !important;
 }
 
+.main {
+	padding: 12px;
+}
+
 .pagination-nav {
+	display: none;
+}
+
+html[data-navbar='false'] .navbar {
 	display: none;
 }
