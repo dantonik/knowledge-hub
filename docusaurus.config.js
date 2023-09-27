@@ -54,11 +54,11 @@ const config = {
 			},
 		  },
       navbar: {
-        // title: 'dantonik',
-        logo: {
-          alt: 'dantonik logo',
-          src: 'img/logo.png',
-        },
+		  logo: {
+			alt: 'dantonik logo',
+			src: 'img/logo.png',
+		  },
+        title: 'dantonik',
         items: [
         //   {
         //     type: 'doc',
