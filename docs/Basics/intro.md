@@ -7,4 +7,14 @@ sidebar_position: 1
 
 # Introduction
 
-Test page
+<Tabs>
+	<TabItem>
+		Test
+	</TabItem>
+	<TabItem>
+		Test 2
+	</TabItem>
+	<TabItem>
+		Test3
+	</TabItem>
+</Tabs>
