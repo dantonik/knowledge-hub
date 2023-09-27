@@ -66,7 +66,7 @@ const config = {
         //     position: 'left',
         //     label: 'Tutorial',
         //   },
-          {to: '/about', label: 'about', position: 'left'},
+          {to: '/.about', label: 'about', position: 'left'},
           {
             href: 'https://github.com/dantonik/',
             label: 'GitHub',
