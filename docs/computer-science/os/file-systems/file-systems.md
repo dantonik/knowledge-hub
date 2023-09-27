@@ -10,5 +10,6 @@ sidebar_position: 3
 [Anatomy of Filesystems](https://www.youtube.com/watch?v=0Yf-W7Ps6u4)
 
 Communication standards to talk to your harddisk
-- ATA
+- (P)ATA
+- SATA
 - SCSI - Small Computer System Interface
