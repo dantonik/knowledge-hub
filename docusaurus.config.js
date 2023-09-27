@@ -55,10 +55,10 @@ const config = {
 		  },
       navbar: {
         title: 'dantonik',
-        logo: {
-          alt: 'dantonik logo',
-          src: 'img/android-chrome-192x192.png',
-        },
+        // logo: {
+        //   alt: 'dantonik logo',
+        //   src: 'img/android-chrome-192x192.png',
+        // },
         items: [
         //   {
         //     type: 'doc',
@@ -66,9 +66,9 @@ const config = {
         //     position: 'left',
         //     label: 'Tutorial',
         //   },
-        //   {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'about', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/dantonik/',
             label: 'GitHub',
             position: 'right',
           },
