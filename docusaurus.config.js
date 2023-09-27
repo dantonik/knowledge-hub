@@ -66,7 +66,12 @@ const config = {
         //     position: 'left',
         //     label: 'Tutorial',
         //   },
-          {to: '/.about', label: 'about', position: 'left'},
+          {to: '/about', label: 'about', position: 'left'},
+		  {
+            href: 'https://linkedin.com/in/dantonik/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
           {
             href: 'https://github.com/dantonik/',
             label: 'GitHub',
