@@ -3,11 +3,11 @@ import Layout from '@theme/Layout';
 
 export default function About() {
 	return (
-		<Layout>
+		// <Layout>
 			<div>
 				<h1>About</h1>
 				<p>This is the about page!</p>
 			</div>
-		</Layout>
+		{/* </Layout> */}
 	);
 }
