@@ -55,10 +55,10 @@ const config = {
 		  },
       navbar: {
         title: 'dantonik',
-        // logo: {
-        //   alt: 'dantonik logo',
-        //   src: 'img/logo.svg',
-        // },
+        logo: {
+          alt: 'dantonik logo',
+          src: 'img/android-chrome-192x192.png',
+        },
         items: [
         //   {
         //     type: 'doc',
