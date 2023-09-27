@@ -1,5 +1,9 @@
 # Overview
 
+[CMU Databse Group](https://www.youtube.com/@CMUDatabaseGroup)
+[CMU Intro to DBS](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
+[Project 0 C++ Primer](https://15445.courses.cs.cmu.edu/spring2023/project0/)
+
 [Patterns in Data Management Book](https://bigdata.uni-saarland.de/datenbankenlernen/book.pdf)
 
 YT: [Prof. Dittrich](https://www.youtube.com/@jensdit)
