@@ -51,10 +51,13 @@ article {
 	margin-right: auto;
 }
 
-.category1 > .menu__link {
+.red > .menu__link {
 	color: red;
 }
 
+.red {
+	color: red;
+}
 
 .overview > .menu__link {
 	position: relative;
