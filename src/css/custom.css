@@ -56,11 +56,63 @@ article {
 }
 
 .overview > .menu__link {
-	font-weight: bold;
+	font-weight: strong;
 }
 
   /* Style specific sidebar items with a custom class */
 .overview-sidebar-item {
 	font-weight: bold;
 	color: #FF0000; /* Change to your desired color */
+  }
+
+  strong {
+	position: relative;
+  }
+  
+  strong::before {
+	/* Highlight color */
+	background-color: #46b96c;
+  
+	content: "";
+	position: absolute;
+	width: calc(100% + 4px);
+	height: 60%;
+	left: -2px;
+	bottom: 0;
+	z-index: -1;
+	transform: rotate(-2deg);
+  }
+  
+
+  
+  * {
+	box-sizing: border-box;
+	font-family: sans-serif;
+  }
+  
+  body {
+	background-color: #1c1c1c;
+	margin: 0;
+  }
+  
+  .content{
+	display: flex;
+	margin: 40px auto;
+	min-height: 100vh;
+	max-width: 450px;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+  }
+  
+  .content>* {
+	width: 100%;
+  }
+  
+  h1 {
+	color: white;
+	margin: 0;
+	margin-bottom: 40px;
+	padding: 0;
+	text-align: center;
   }

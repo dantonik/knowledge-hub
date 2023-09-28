@@ -5,6 +5,7 @@ sidebar_label: about
 sidebar_position: 3
 sidebar_class_name: category1
 sidebar_custom_props:
+displayed_sidebar:
 ---
 
 https://fontawesome.com/v5/search
