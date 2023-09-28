@@ -57,27 +57,20 @@ article {
 
 
 .overview > .menu__link {
-	position:relative;
-	content:"";
-	background-color:rgba(76, 194, 174, .1);
-	width:80%;
-	height:1em;
-	position:absolute;
-	z-index:-1;
-	left:-0.25em;
-	top:0.1em;
-	padding:0 0.25em;
-}
-
-.overview > .menu__link:hover {
-	position:relative;
-	content:"";
-	background-color:rgba(90, 229, 206, 0.1);
-	width:80%;
-	height:1em;
-	position:absolute;
-	z-index:-1;
-	left:-0.25em;
-	top:0.1em;
-	padding:0 0.25em;
-}
+	position: relative;
+	content: "";
+	background-color: rgba(76, 194, 174, 0.1);
+	width: 80%;
+	height: 1em;
+	position: absolute;
+	z-index: -1;
+	left: -0.25em;
+	top: 0.1em;
+	padding: 0 0.25em;
+	transition: background-color 0.3s; /* Add a transition for smooth color change */
+  }
+  
+  .overview > .menu__link:hover {
+	background-color: rgba(76, 194, 174, 0.4); /* Change the background color on hover */
+  }
+  
