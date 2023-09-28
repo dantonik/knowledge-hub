@@ -1,6 +1,6 @@
 {
 	"label": "OS",
-	"position": 2,
+	"position": 3,
 	"customProps": {
 	"sidebar_pathname": "OS"
 	}
