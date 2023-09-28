@@ -4,6 +4,7 @@ title: introduction
 sidebar_label: introduction
 sidebar_position: 1
 class_name: category1
+className: category1
 ---
 
 import Tabs from '@theme/Tabs';
