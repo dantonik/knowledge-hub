@@ -31,3 +31,7 @@ One Inode can have up to 32 Inodes
 
 
 Boot Block
+
+[Disk sector](https://en.wikipedia.org/wiki/Disk_sector#Cluster)
+
+[Linux Filesystems: Where did they come from?](https://www.youtube.com/watch?v=SMcVdZk7wV8)

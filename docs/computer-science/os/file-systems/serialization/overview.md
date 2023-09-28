@@ -10,3 +10,6 @@
 
 [Killing C++ Serialization Overhead and Complexity](https://www.youtube.com/watch?v=G7-GQhCw8eE) (1:00)
 [Reading Binary Data with Style](https://www.youtube.com/watch?v=o3j6hfXDCVc)
+
+[Advanced Serialization in Python](https://www.youtube.com/watch?v=tYBdpfG8iOg)
+

@@ -23,3 +23,6 @@ PRAGMA journal_mode = WAL
 [Architecture of SQLite](https://www.sqlite.org/arch.html)
 
 [Advanced SQLite](https://www.youtube.com/watch?v=lqy9SEWRr8Y)
+
+[Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
+
