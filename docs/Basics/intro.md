@@ -3,7 +3,7 @@ slug: /
 title: introduction
 sidebar_label: introduction
 sidebar_position: 1
-icon: fas fa-book
+class_name: category1
 ---
 
 import Tabs from '@theme/Tabs';
