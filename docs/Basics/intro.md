@@ -37,7 +37,3 @@ Started on the 26th of September
 `playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
 
 `playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
-
-<icon icon="fa-brands fa-github" size="xs" /> This is a GitHub icon.
-
-<icon icon="fas fa-code" size="sm" /> Code

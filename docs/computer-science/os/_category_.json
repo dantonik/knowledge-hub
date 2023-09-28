@@ -1,7 +1,7 @@
 {
-	"label": "os",
-	"position": 1,
+	"label": "OS",
+	"position": 2,
 	"customProps": {
-	"sidebar_pathname": "Computer Science"
+	"sidebar_pathname": "OS"
 	}
 }
