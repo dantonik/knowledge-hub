@@ -38,4 +38,6 @@ Started on the 26th of September
 
 `playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
 
-<icon icon="fa-brands fa-github" size="lg" /> This is a GitHub icon.
+<icon icon="fa-brands fa-github" size="xs" /> This is a GitHub icon.
+
+<icon icon="fas fa-code" size="sm" /> Code

@@ -73,9 +73,11 @@ const config = {
         //     position: 'right',
         //   },
           {
-            href: 'https://github.com/dantonik/',
+            to: 'https://github.com/dantonik/',
             label: 'GitHub',
             position: 'right',
+			target: '_blank',
+			className: 'github-link',
           },
         ],
       },
