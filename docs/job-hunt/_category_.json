@@ -1,0 +1,7 @@
+{
+	"label": "Job Hunt",
+	"position": 7,
+	"customProps": {
+	"sidebar_pathname": "Job Hunt"
+	}
+}

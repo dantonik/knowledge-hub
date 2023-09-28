@@ -1,0 +1,7 @@
+{
+	"label": "Politics",
+	"position": 6,
+	"customProps": {
+	"sidebar_pathname": "Politics"
+	}
+}

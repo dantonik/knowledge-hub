@@ -10,6 +10,10 @@ import TabItem from '@theme/TabItem';
 
 # Introduction
 
+Just a place to keep some structured notes mostly about tech related stuff.
+
+--- 26.09 ---
+
 <Tabs>
 	<TabItem value="book" lable="Book">
 		Test
