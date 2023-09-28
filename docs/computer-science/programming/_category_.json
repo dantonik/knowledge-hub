@@ -1,6 +1,5 @@
 {
 	"label": "Programming",
-	"icon": "fas fa-book",
 	"position": 1,
 	"customProps": {
 	"sidebar_pathname": "Programming"
