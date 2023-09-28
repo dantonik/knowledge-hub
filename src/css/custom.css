@@ -59,11 +59,10 @@ article {
 .overview > .menu__link {
 	position: relative;
 	background-color: rgba(76, 194, 174, 0.1);
-	width: 80%;
+	transition: background-color 0.3s ease;
   }
 
-.overview > .menu__link {
+.overview > .menu__link:hover {
 	position: relative;
 	background-color: rgba(97, 209, 191, 0.1);
-	width: 80%;
   }
