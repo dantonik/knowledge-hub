@@ -1,6 +1,7 @@
-import Start from '../_markdown_start.mdx';
+---
+sidebar_label: data
+---
 
-<Start label="data" />
 # Overview
 
 [CMU Databse Group](https://www.youtube.com/@CMUDatabaseGroup)
