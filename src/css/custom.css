@@ -55,6 +55,10 @@ article {
 	color: red;
 }
 
+.overview > .menu__link {
+	font-weight: bold;
+}
+
   /* Style specific sidebar items with a custom class */
 .overview-sidebar-item {
 	font-weight: bold;

@@ -1,5 +1,9 @@
 ---
-sidebar_label: data
+slug: /data
+title: data
+sidebar_label: overview
+sidebar_position: 1
+sidebar_class_name: overview
 ---
 
 # Overview
