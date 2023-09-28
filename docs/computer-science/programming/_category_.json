@@ -1,5 +1,6 @@
 {
-	"label": "<icon icon='fas fa-code' size='xs' /> Code",
+	"label": "Programming",
+	"icon": "fas fa-book",
 	"position": 1,
 	"customProps": {
 	"sidebar_pathname": "Programming"
