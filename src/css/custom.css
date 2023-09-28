@@ -55,13 +55,8 @@ article {
 	color: red;
 }
 
-.navItemActive a.sidebar-item[href$="/about/"] {
+  /* Style specific sidebar items with a custom class */
+.overview-sidebar-item {
 	font-weight: bold;
 	color: #FF0000; /* Change to your desired color */
-  }
-  
-  /* Target a specific sidebar item by its unique class */
-  .custom-sidebar-item {
-	font-weight: bold;
-	color: #00FF00; /* Change to your desired color */
   }

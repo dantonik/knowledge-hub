@@ -3,6 +3,7 @@ slug: /
 title: introduction
 sidebar_label: introduction
 sidebar_position: 1
+badges: green
 ---
 
 import Tabs from '@theme/Tabs';
