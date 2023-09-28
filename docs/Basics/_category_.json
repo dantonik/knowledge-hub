@@ -1,7 +1,6 @@
 {
 	"label": "Basics",
 	"position": 1,
-	"className": "category1",
 	"customProps": {
 	"sidebar_pathname": "Basics"
 	}

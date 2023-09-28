@@ -54,3 +54,14 @@ article {
 .category1 > .menu__link {
 	color: red;
 }
+
+.navItemActive a.sidebar-item[href$="/about/"] {
+	font-weight: bold;
+	color: #FF0000; /* Change to your desired color */
+  }
+  
+  /* Target a specific sidebar item by its unique class */
+  .custom-sidebar-item {
+	font-weight: bold;
+	color: #00FF00; /* Change to your desired color */
+  }
