@@ -32,14 +32,6 @@ Started on the 26th of September
 	</TabItem>
 </Tabs> -->
 
-<Tabs>
-	<TabItem value ="Database" lable="Databases">
-
-		[Vorlesung Datenbanken](https://www.youtube.com/playlist?list=PLl5bHUbZDk9X4LOp-oJCD0KUlx1S33mlr)
-
-	</TabItem>
-</Tabs>
-
 `video`: [To-Do App in Assembly](https://www.youtube.com/watch?v=WnBXLmKk_qw)
 [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
 
