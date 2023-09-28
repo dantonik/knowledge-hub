@@ -14,7 +14,7 @@ Just a place to keep some structured notes mostly about tech related stuff.
 
 --- 26.09 ---
 
-<Tabs>
+<!-- <Tabs>
 	<TabItem value="Databases" lable="Databases">
 		[Vorlesung Datenbanken](https://www.youtube.com/playlist?list=PLl5bHUbZDk9X4LOp-oJCD0KUlx1S33mlr)
 
@@ -25,6 +25,13 @@ Just a place to keep some structured notes mostly about tech related stuff.
 	</TabItem>
 	<TabItem value="art" lable="art">
 		Test3
+	</TabItem>
+</Tabs> -->
+
+<Tabs>
+	<TabItem value ="Database" lable="Databases">
+		[Vorlesung Datenbanken](https://www.youtube.com/playlist?list=PLl5bHUbZDk9X4LOp-oJCD0KUlx1S33mlr)
+		[CMU Intro to DBMS](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 	</TabItem>
 </Tabs>
 
