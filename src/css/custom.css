@@ -70,8 +70,8 @@ article {
 .realistic-marker-highlight > .menu__link {
 	position:relative;
 	content:"";
-	background-color:#ff6db7;
-	width:100%;
+	background-color:rgba(76, 194, 174, .1);
+	width:50%;
 	height:1em;
 	position:absolute;
 	z-index:-1;
