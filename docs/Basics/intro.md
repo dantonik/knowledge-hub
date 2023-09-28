@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 # Introduction
 
-:::tip
+:::note
 
 Just a place to keep some structured notes mostly about tech related stuff.
 
@@ -33,7 +33,8 @@ Started on the 26th of September
 </Tabs> -->
 
 `video`: [To-Do App in Assembly](https://www.youtube.com/watch?v=WnBXLmKk_qw)
-[Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
 
-[Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
+`playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
+
+`playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
 
