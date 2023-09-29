@@ -38,3 +38,8 @@ Started on the 26th of September
 `playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
 
 `playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
+[Lecture Archive](https://www.youtube.com/@LectureArchive)
+`german`: [MarkusS](https://www.youtube.com/@hackandcode9869/featured)
+
+`Google`[Guide for technical development](https://techdevguide.withgoogle.com/)
+`Website`[Teach Yourself CS](https://teachyourselfcs.com/)

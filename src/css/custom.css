@@ -51,14 +51,6 @@ article {
 	margin-right: auto;
 }
 
-.red > .menu__link {
-	color: red;
-}
-
-.red {
-	color: red;
-}
-
 .overview > .menu__link {
 	position: relative;
 	background-color: rgba(76, 194, 174, 0.1);

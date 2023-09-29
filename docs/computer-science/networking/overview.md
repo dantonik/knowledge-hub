@@ -7,3 +7,4 @@
 [Practical Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRF49oTwJVK4LqWTKuACRWc)
 [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 
+[Netzwerktechnik in 46 minuten](https://www.youtube.com/watch?v=5y8IYPQSYMs)
