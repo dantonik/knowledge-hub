@@ -26,3 +26,4 @@ PRAGMA journal_mode = WAL
 
 [Journal Modes](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 
+[Database Model for your Python Project](https://www.youtube.com/watch?v=LFG2Kx1m-Dc)
