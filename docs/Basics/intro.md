@@ -34,6 +34,8 @@ Started on the 26th of September
 </Tabs> -->
 
 Stanford classes - Methodology, Abstractions and Paradigms
+
+
 [Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)`Lec3`
 [Programming Abstraction](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
 [Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
@@ -46,7 +48,9 @@ Stanford classes - Methodology, Abstractions and Paradigms
 
 `playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
 [Lecture Archive](https://www.youtube.com/@LectureArchive)
+
 `german`: [MarkusS](https://www.youtube.com/@hackandcode9869/featured)
 
 `Google`[Guide for technical development](https://techdevguide.withgoogle.com/)
+
 `Website`[Teach Yourself CS](https://teachyourselfcs.com/)
