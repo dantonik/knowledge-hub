@@ -34,7 +34,7 @@ Started on the 26th of September
 </Tabs> -->
 
 Stanford classes - Methodology, Abstractions and Paradigms
-[Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)`Lec2`
+[Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)`Lec3`
 [Programming Abstraction](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
 [Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
