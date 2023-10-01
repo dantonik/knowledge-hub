@@ -33,6 +33,13 @@ Started on the 26th of September
 	</TabItem>
 </Tabs> -->
 
+Stanford classes - Methodology, Abstractions and Paradigms
+[Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)`Lec2`
+[Programming Abstraction](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
+[Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
+
+[Introduction to CS and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
 `video`: [To-Do App in Assembly](https://www.youtube.com/watch?v=WnBXLmKk_qw)
 
 `playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
