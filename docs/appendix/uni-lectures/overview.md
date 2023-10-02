@@ -1,6 +1,6 @@
 # Overview
 
-[Div lectures]{https://www.youtube.com/@LectureArchive/playlists}
+[Div lectures](https://www.youtube.com/@LectureArchive/playlists)
 
 [CS246 Mining Massive Data Sets](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR)
 
@@ -12,3 +12,5 @@
 
 [Nerd's Lesson](https://www.youtube.com/@Nerdslesson)
 
+### Stanford
+[CS221 AI](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)

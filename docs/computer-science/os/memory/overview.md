@@ -6,3 +6,8 @@ Where does memory come from?
 - mmap
 
 malloc (glibc allocator) -> heap
+brk/sbrk sets the break or lowest address of a process's data segment
+The mmap() system call gives back memory you have access to
+```
+void *new_memory = mmap(NULL, 0x1000, PROT_READ|PROT_WRITE, MAP_PRIVATE, MAP_ANONYMOUS, 0, 0);
+```
