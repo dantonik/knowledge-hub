@@ -5,3 +5,4 @@ Where does memory come from?
 - sbrk/brk
 - mmap
 
+malloc (glibc allocator) -> heap

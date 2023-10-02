@@ -10,3 +10,5 @@
 
 [Geek's Lesson](https://www.youtube.com/@GeeksLesson)
 
+[Nerd's Lesson](https://www.youtube.com/@Nerdslesson)
+
