@@ -6,3 +6,5 @@
 SQL is a declarative language.
 Data Abstraction
 Transactions
+
+`udacity`[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)  
