@@ -5,6 +5,11 @@ They extract, integrate and organize data from disparate sources.
 Clean, transfrom and prepare data.  
 Design, store, and manage data in data repositories.  
 
+## Skills needed
+- Programming
+- Knowledge of systems and technology architecture
+- undestanding of relational databases and non-relational data stores
+
 
 [DE Ressources](https://www.ssp.sh/)
 [Awesome DE Github](https://github.com/igorbarinov/awesome-data-engineering)
