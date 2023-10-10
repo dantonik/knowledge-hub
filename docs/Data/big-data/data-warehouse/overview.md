@@ -8,10 +8,10 @@ sidebar_class_name: overview
 
 # Data Warehouse
 
-[Create a DWH with SQLite](https://www.youtube.com/watch?v=fGoERH74AI0)
+[SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
 
-[Data Modeling for DWH](https://www.youtube.com/watch?v=acNmHwl9iPs)
+[Create a DWH with SQLite](https://www.youtube.com/watch?v=fGoERH74AI0)  
 
-[Understanding Slowly Changing Dimensions](https://www.youtube.com/watch?v=Sg2AAk1vwEs)
+[Data Modeling for DWH](https://www.youtube.com/watch?v=acNmHwl9iPs)  
 
-
+[Understanding Slowly Changing Dimensions](https://www.youtube.com/watch?v=Sg2AAk1vwEs)  

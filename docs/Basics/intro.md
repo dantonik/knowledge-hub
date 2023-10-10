@@ -33,6 +33,9 @@ Started on the 26th of September
 	</TabItem>
 </Tabs> -->
 
+[Awesome DE Roadmap](https://awesomedataengineering.com/)  
+[Awesome DE](https://github.com/igorbarinov/awesome-data-engineering)  
+
 Stanford classes - Methodology, Abstractions and Paradigms
 
 
