@@ -1,4 +1,6 @@
-# Distributed Systems
+# Overview
+
+A set of cooperating computers that are communicating with each other over network to get some coherent task done.  
 
 Distributed Lock Server
 
