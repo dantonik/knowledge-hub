@@ -24,3 +24,7 @@ GFS provides a familiar file system interface, though it does not implement a st
 Three replicas are stored by default.  
 
 Files are split into chunks of 64mb identified by a 64bit ID. Chunks of a single file are distributed on multiple machines.  
+
+The master server stores the entire metadata of the cluster.  
+
+Chunkservers send regular 'heartbeats' to confirme that they are up and running without any problems.  
