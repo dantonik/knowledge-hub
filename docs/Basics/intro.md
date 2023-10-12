@@ -36,12 +36,7 @@ Started on the 26th of September
 [Awesome DE Roadmap](https://awesomedataengineering.com/)  
 [Awesome DE](https://github.com/igorbarinov/awesome-data-engineering)  
 
-Stanford classes - Methodology, Abstractions and Paradigms
 
-
-[Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852)`Lec3`
-[Programming Abstraction](https://www.youtube.com/playlist?list=PLFE6E58F856038C69)
-[Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 [Introduction to CS and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
