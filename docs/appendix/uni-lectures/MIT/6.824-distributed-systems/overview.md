@@ -13,3 +13,9 @@ A set of cooperating computers that are communicating with each other over netwo
 ### Challenges
 - concurrency
 - partial failure
+
+### Infrastructure
+- Storage
+- Communication
+- Computation
+
