@@ -1,6 +1,6 @@
 # Overview
 
-`L02`[Computational Structures](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)  
+`L03`[Computational Structures](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)  
 
 ## L01: The Digital Abstraction
 Computer programs  
@@ -41,3 +41,10 @@ AND, OR, and NOT are universal gates: they can implement any combinational funct
 sum-of-products (SOP)  
 a minimal SOP has the smallest possible number of AND and OR operators.  
 minimal SOP's can be implemented with fewer gates but they are nor unique.  
+
+#### Other Common Gates
+XOR (exclusive-OR)  
+NAND  
+NOR  
+
+NANDs and NORs are universal.  
