@@ -1,5 +1,7 @@
 # Overview
 
+`L02`[Computational Structures](https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu)  
+
 ## L01: The Digital Abstraction
 Computer programs  
 -> Virtual machines  
@@ -33,3 +35,9 @@ Duality principle: if a boolean expression is true, the replacing 0 with 1 and A
 - reduction
 - DeMorgan's law
 
+Logical synthesis  
+#### From Boolean Algebra to Gates
+AND, OR, and NOT are universal gates: they can implement any combinational function.  
+sum-of-products (SOP)  
+a minimal SOP has the smallest possible number of AND and OR operators.  
+minimal SOP's can be implemented with fewer gates but they are nor unique.  
