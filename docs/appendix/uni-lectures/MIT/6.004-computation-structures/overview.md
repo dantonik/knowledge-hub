@@ -15,3 +15,21 @@ Combinational and sequential circuits
 Devices  
 Materials  
 Atoms  
+
+## L02: Combinational Devices and Boolean Algebra
+#### Boolean Algebra Axioms
+identity ax1=a a+0=a
+null ax0=0 a+1=1
+negation Ō=1 Ī=0
+
+Duality principle: if a boolean expression is true, the replacing 0 with 1 and AND with OR yields another expression that is true.  
+
+#### Useful Boolean Algebra Properties
+- commutative
+- associative
+- distributive
+- complements
+- absorption
+- reduction
+- DeMorgan's law
+
