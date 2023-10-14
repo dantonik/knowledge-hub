@@ -24,3 +24,6 @@ Fault tolerance
 - recoverability
 
 NV storage (non-volatile)
+Replication
+
+ 
