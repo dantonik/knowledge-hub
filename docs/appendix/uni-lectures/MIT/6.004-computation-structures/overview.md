@@ -48,3 +48,5 @@ NAND
 NOR  
 
 NANDs and NORs are universal.  
+
+#### Combinational Circuits
