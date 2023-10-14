@@ -19,3 +19,8 @@ A set of cooperating computers that are communicating with each other over netwo
 - Communication
 - Computation
 
+Fault tolerance
+- availability
+- recoverability
+
+NV storage (non-volatile)
