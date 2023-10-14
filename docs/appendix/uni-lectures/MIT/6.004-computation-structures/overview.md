@@ -49,4 +49,14 @@ NOR
 
 NANDs and NORs are universal.  
 
-#### Combinational Circuits
+### Combinational Circuits
+
+#### Boolean Algebra and Binary Arithmetic
+Numbers can be represented in binary notation and arithmetic can be performed on binary numbers.  
+
+Addition in base 2 is performed just like in base 10.  
+
+Half adder (HA): adds two 1-bit numbers and produces a sum and a carry bit.  
+Full adder (FA): adds two 1-bit numbers and a carry, and produces a sum bit and a carry bit.  
+Cascade FAs to perform binary addition.  
+
