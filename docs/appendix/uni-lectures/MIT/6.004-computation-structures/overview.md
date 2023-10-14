@@ -60,3 +60,13 @@ Half adder (HA): adds two 1-bit numbers and produces a sum and a carry bit.
 Full adder (FA): adds two 1-bit numbers and a carry, and produces a sum bit and a carry bit.  
 Cascade FAs to perform binary addition.  
 
+### Bluespec System Verilog (BSV)
+^ = XOR
+& = AND
+```
+function Bit#(2) ha(Bit#(1) a, Bit#(1) b);
+	Bit#(1) s = a ^ b;
+	Bit#(1) c = a & b;
+	return {c, s};
+endfunction
+```
