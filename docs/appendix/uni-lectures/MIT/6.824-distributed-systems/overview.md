@@ -28,3 +28,14 @@ Replication
 
 ### Go
 Threads in Go are called Go Routines.  
+
+```
+mu.lock()
+mu.unlock()
+```
+
+Coordination
+- channels
+- sync conditions
+- wait group
+
