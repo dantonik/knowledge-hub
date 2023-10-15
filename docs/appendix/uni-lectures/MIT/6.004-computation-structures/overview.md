@@ -63,6 +63,8 @@ Cascade FAs to perform binary addition.
 ### Bluespec System Verilog (BSV)
 ^ = XOR
 & = AND
+
+#### Half Adder
 ```
 function Bit#(2) ha(Bit#(1) a, Bit#(1) b);
 	Bit#(1) s = a ^ b;
@@ -70,3 +72,24 @@ function Bit#(2) ha(Bit#(1) a, Bit#(1) b);
 	return {c, s};
 endfunction
 ```
+#### Full Adder
+```
+function Bit#(2) fa(Bit#(1) a, Bit#(1) b, Bit#(1) c_in);
+	Bit#(2) ab = ha(a, b);
+	Bit#(2) abc = ha(ab[0], c_in);
+	Bit#(1) c_out = ab[1] | abc[1];
+	return {c_out, abc[0]};
+endfunction
+```
+#### 2-bit Ripple-Carry Adder
+Also called Carry Look Ahead Adder (CLA Adder)
+
+#### Selectors and Multiplexers
+Constant selector: e.g., x[2]  
+
+Dynamic selector: x[i]  
+
+2-way multiplexer (mux)  
+(s==0)? a : b;  
+
+#### Shift operators
