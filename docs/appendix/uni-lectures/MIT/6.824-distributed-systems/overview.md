@@ -26,4 +26,5 @@ Fault tolerance
 NV storage (non-volatile)
 Replication
 
- 
+### Go
+Threads in Go are called Go Routines.  
