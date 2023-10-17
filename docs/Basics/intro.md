@@ -19,6 +19,21 @@ Started on the 26th of September
 
 :::
 
+#### Data Engineering Skills
+- Deep understanding of database design & architecture (SQL/NoSQL)
+- Data transformation tools
+- Data ingestion tools
+- Data mining tools
+- Data warehousing and ETL tools
+- real-time processing frameworks
+- data buffering tools
+- machine learning skills
+- cloud computing tools
+- data visualization skills
+
+- SQL
+- Python
+
 <!-- <Tabs>
 	<TabItem value="Databases" lable="Databases">
 		[Vorlesung Datenbanken](https://www.youtube.com/playlist?list=PLl5bHUbZDk9X4LOp-oJCD0KUlx1S33mlr)
@@ -40,7 +55,6 @@ Started on the 26th of September
 
 [Introduction to CS and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-`video`: [To-Do App in Assembly](https://www.youtube.com/watch?v=WnBXLmKk_qw)
 
 `playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
 
