@@ -11,3 +11,6 @@ Tools
 - Azure Active Directory (ADD)
 - Microsoft Power BI
 
+Ingestion with Data Factory  
+Transformation with Databricks  
+Loading with Synapse Analytics  
