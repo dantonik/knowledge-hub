@@ -14,3 +14,5 @@ Tools
 Ingestion with Data Factory  
 Transformation with Databricks  
 Loading with Synapse Analytics  
+Reporting with Power BI  
+
