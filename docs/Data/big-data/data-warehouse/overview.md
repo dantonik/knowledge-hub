@@ -8,6 +8,10 @@ sidebar_class_name: overview
 
 # Data Warehouse
 
+A data warehouse is a computer system dedicated to storing and analyzing data to reveal trends, patterns, and correlations that provide information and insight.  
+
+#### Ressources
+
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
 
 [Create a DWH with SQLite](https://www.youtube.com/watch?v=fGoERH74AI0)  
