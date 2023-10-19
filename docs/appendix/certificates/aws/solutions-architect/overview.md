@@ -15,3 +15,8 @@ Design Cost-Optimized Architectures 20%
 - Operational excellence
 - Sustainability
 
+#### Security
+- Design secure access to AWS resources
+- Design secure workloads and applications
+- Determine appropriate data security controls
+
