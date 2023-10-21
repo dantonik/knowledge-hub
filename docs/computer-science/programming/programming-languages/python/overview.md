@@ -77,3 +77,6 @@ To use the environment you have to activate it
 ```
 source environment-name/bin/activate
 ```
+If you check with `pip list`, you will see that it's a clean environment. Any packages you install from now on will be installed in this environment only.  
+
+The environment automatically supplies the `deactivate` command.  
