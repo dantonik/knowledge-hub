@@ -29,5 +29,12 @@ Package installation with pip.
 The Python Package Index (pypi)  
 
 ```
+python3 -m pip install package-1 package-2 ...
+```
+```
 pip install package-1 package-2 ...
+```
+List the installed packages with their version number  
+```
+pip list
 ```
