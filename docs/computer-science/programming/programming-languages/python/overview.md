@@ -33,7 +33,16 @@ python3 -m pip install package-1 package-2 ...
 ```
 ```
 pip install package-1 package-2 ...
+
+pip uninstall package
 ```
+You can install a specific version or display all available version numbers by leaving the version number blank  
+```
+pip install package==0.10.1
+
+pip install package==
+```
+
 List the installed packages with their version number  
 ```
 pip list
