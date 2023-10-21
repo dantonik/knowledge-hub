@@ -27,3 +27,7 @@ When a module or a group of modules is bundled together specifically for distrib
 #### Packages
 Package installation with pip.  
 The Python Package Index (pypi)  
+
+```
+pip install package-1 package-2 ...
+```
