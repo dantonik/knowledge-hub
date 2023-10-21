@@ -2,9 +2,6 @@
 
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 
-Package installation with pip.  
-The Python Package Index (PyPI)  
-
 ### Where can you run Python code?
 - REPL (Read-Eval-Print Loop)
 - file
@@ -27,3 +24,6 @@ When a module or a group of modules is bundled together specifically for distrib
 
 #### Python Standard Library
 
+#### Packages
+Package installation with pip.  
+The Python Package Index (pypi)  
