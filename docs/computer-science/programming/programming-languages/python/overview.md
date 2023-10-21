@@ -47,3 +47,17 @@ List the installed packages with their version number
 ```
 pip list
 ```
+
+#### Requirements file
+With a requirements file you can make your python project portable.  
+
+You can create one with your currently installed packages including their verion number  
+```
+pip freeze > requirements.txt
+```
+You can install or uninstall all the packages in the file at once
+```
+pip install -r requirements.txt
+
+pip uninstall -r requirements.txt
+```
