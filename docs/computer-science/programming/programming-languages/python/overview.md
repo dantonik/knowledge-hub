@@ -61,3 +61,19 @@ pip install -r requirements.txt
 
 pip uninstall -r requirements.txt
 ```
+
+#### Python Virtual Environment
+By default packages are installed across your user environment.  
+
+Problems
+- difficult to determine which packages are requirements for any individual project
+- you may have projects that require different versions of a package
+
+You can install all of your virtual environments in a central location (e.g. /home/envs) or in their associated project directories.  
+```
+python -m venv environment-name
+```
+To use the environment you have to activate it
+```
+source environment-name/bin/activate
+```
