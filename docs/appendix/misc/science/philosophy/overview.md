@@ -1,8 +1,7 @@
 # Overview
-
 Philosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language.  
 
-Main traditions
+## Main traditions
 - Western
 - Arabic-Persian
 - Indian
@@ -16,6 +15,10 @@ Main traditions
 - Confucius
 - Avicenna
 
+## Branches of philosophy
+- Metaphysics
+- Ontology
+
 ## Western philosophy
 Originated in ancient Greece.  
 
@@ -25,4 +28,6 @@ A central topic in Arabic-Persian philosophy is the relation between reason and 
 ## Indian philosophy
 
 ## Chinese philosophy
+Chinese philosophy focuses on practical issues in relation to right social conduct, government, and self-cultivation.  
 
+## Terms and concepts
