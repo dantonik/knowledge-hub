@@ -21,3 +21,8 @@ Originated in ancient Greece.
 
 ## Arabic-Persian philosophy
 A central topic in Arabic-Persian philosophy is the relation between reason and revelation.  
+
+## Indian philosophy
+
+## Chinese philosophy
+
