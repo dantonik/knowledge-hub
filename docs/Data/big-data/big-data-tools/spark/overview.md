@@ -16,3 +16,10 @@ Spark Core
 Standalone Scheduler  
 YARN  
 Mesos  
+
+#### Resilient Distributed Datasets (RDD)
+Spark's primary abstraction  
+Two types of RDD operations  
+- Transformations
+- Actions
+

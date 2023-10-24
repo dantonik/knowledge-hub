@@ -85,5 +85,17 @@ The environment automatically supplies the `deactivate` command.
 Simple Statements
 - Expression Statements
 - Assert Statements
+- Assignment Statements
+- Pass Statements
+- Del Statements
+- Return Statements
+- Yield Statements
+- Raise Statements
+- Break Statements
+- Continue Statements
+- Import Statements
+- Future Statements
+- Global Statements
+- Nonlocal Statements
 
 A statement is a single logical line of code.  
