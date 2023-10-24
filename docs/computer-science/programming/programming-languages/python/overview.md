@@ -160,4 +160,17 @@ os.path.isdir('.')
 only import submodule
 ```
 from os import path
+path.isdir('.')
+```
+```
+from os.path import isdir
+isdir('.')
+```
+You can also import all possible sub-modules and functions at once (not recommended)
+```
+from os import *
+```
+You can rename imports
+```
+import pandas as pd
 ```
