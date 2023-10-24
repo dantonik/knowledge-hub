@@ -98,4 +98,15 @@ Simple Statements
 - Global Statements
 - Nonlocal Statements
 
+Compound Statements
+- If Statements
+- While Statements
+- For Statements
+- Try Statements
+- With Statements
+- Match Statements
+- Function Definitions
+- Class Definitions
+- Coroutines
+
 A statement is a single logical line of code.  
