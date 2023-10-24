@@ -128,4 +128,11 @@ a = 'hello'
 b = 4 / 2
 c = d = True
 e, f = 1, 2
+
+g, *h, i = 1, 2, 3, 4, 4, 5
+```
+Augmented assignment operator
+```
+a += 1
+a /= 2
 ```
