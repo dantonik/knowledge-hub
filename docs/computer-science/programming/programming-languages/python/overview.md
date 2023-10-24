@@ -119,3 +119,13 @@ Expression - Code that evaluates to a value.
 ```
 
 ### Assignment Statements
+- assign a value to a variable
+- use a variable in an expression
+- assign multiple values to multiple variables
+- update a variable using an expression
+```
+a = 'hello'
+b = 4 / 2
+c = d = True
+e, f = 1, 2
+```
