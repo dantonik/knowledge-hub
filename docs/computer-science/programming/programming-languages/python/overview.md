@@ -173,4 +173,29 @@ from os import *
 You can rename imports
 ```
 import pandas as pd
+pd.DataFrame
 ```
+
+### Additional simple statements
+- pass
+- del
+- return
+- yield
+- break
+- continue
+- future
+- global
+- nonlocal
+
+### Exceptions
+
+### Raise statements
+```
+raise NotImplementedError("My message")
+```
+
+### Assert statements
+```
+assert a == 2, "a isn't 2"
+```
+Assert statements slow down a running program, they are usually disabled in production code. This can be done with the `-O` flag.  
