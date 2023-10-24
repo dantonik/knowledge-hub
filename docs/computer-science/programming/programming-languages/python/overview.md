@@ -148,3 +148,16 @@ You can import modules from
 import os
 print(os)
 ```
+Access functions defined in this module
+```
+os.getcwd()
+```
+Access submodules
+```
+os.path
+os.path.isdir('.')
+```
+only import submodule
+```
+from os import path
+```
