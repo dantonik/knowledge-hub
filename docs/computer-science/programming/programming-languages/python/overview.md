@@ -136,3 +136,15 @@ Augmented assignment operator
 a += 1
 a /= 2
 ```
+
+### Import Statements
+To use a package in a Python program you must bring it into the program's running memory.  
+You can import modules from
+- the Python Standard Library
+- installed through pip
+- local modules
+
+```
+import os
+print(os)
+```
