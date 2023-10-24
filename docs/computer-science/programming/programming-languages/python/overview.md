@@ -82,6 +82,8 @@ If you check with `pip list`, you will see that it's a clean environment. Any pa
 The environment automatically supplies the `deactivate` command.  
 
 ## Python Statements
+A statement is a single logical line of code.  
+
 Simple Statements
 - Expression Statements
 - Assert Statements
@@ -109,4 +111,11 @@ Compound Statements
 - Class Definitions
 - Coroutines
 
-A statement is a single logical line of code.  
+### Expression Statements
+Expression - Code that evaluates to a value.  
+```
+2+2
+'a'
+```
+
+### Assignment Statements
