@@ -85,3 +85,5 @@ The environment automatically supplies the `deactivate` command.
 Simple Statements
 - Expression Statements
 - Assert Statements
+
+A statement is a single logical line of code.  
