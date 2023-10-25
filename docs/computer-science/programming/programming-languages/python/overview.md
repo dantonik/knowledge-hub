@@ -201,3 +201,11 @@ assert a == 2, "a isn't 2"
 Assert statements slow down a running program, they are usually disabled in production code. This can be done with the `-O` flag.  
 
 ## Compound Statements
+Compound statements are composed of a controlling statement and a group of controlled statements.  
+
+Controlling statement `<keyword> <expression>:`  
+
+The controlled statements are usually grouped as a block. In Python, a block is a group of statements sharing an indentation level.  
+
+Another way to group them is to put them on the same line seperated by semicolons `<keyword> <expression>:<statement>;<statement>`  
+
