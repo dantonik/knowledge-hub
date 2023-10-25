@@ -110,15 +110,15 @@ Compound Statements
 - Function Definitions
 - Class Definitions
 - Coroutines
-
-### Expression Statements
+### Simple Statements
+#### Expression Statements
 Expression - Code that evaluates to a value.  
 ```
 2+2
 'a'
 ```
 
-### Assignment Statements
+#### Assignment Statements
 - assign a value to a variable
 - use a variable in an expression
 - assign multiple values to multiple variables
@@ -137,7 +137,7 @@ a += 1
 a /= 2
 ```
 
-### Import Statements
+#### Import Statements
 To use a package in a Python program you must bring it into the program's running memory.  
 You can import modules from
 - the Python Standard Library
@@ -176,7 +176,7 @@ import pandas as pd
 pd.DataFrame
 ```
 
-### Additional simple statements
+#### Additional simple statements
 - pass
 - del
 - return
@@ -187,15 +187,17 @@ pd.DataFrame
 - global
 - nonlocal
 
-### Exceptions
+#### Exceptions
 
-### Raise statements
+#### Raise statements
 ```
 raise NotImplementedError("My message")
 ```
 
-### Assert statements
+#### Assert statements
 ```
 assert a == 2, "a isn't 2"
 ```
 Assert statements slow down a running program, they are usually disabled in production code. This can be done with the `-O` flag.  
+
+## Compound Statements
