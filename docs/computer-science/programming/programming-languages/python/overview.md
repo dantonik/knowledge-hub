@@ -1,6 +1,20 @@
 # Python
 
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
+Exception Handling  
+Debugging  
+Classes and Objects  
+Inheritance  
+Iterators and Generators  
+List/Dictionary comprehension  
+Sets and command line  
+
+## Why Python
+- easy to learn
+- open source
+- huge community
+- cross platform
+- huge set of libraries and tools
 
 ## Where can you run Python code?
 - REPL (Read-Eval-Print Loop)
