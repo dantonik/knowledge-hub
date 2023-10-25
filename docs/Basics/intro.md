@@ -19,6 +19,8 @@ Started on the 26th of September
 
 :::
 
+[Python Overview](../computer-science/programming/programming-languages/python/overview.md)  
+
 #### Data Engineering Skills
 - Deep understanding of database design & architecture (SQL/NoSQL)
 - Data transformation tools
