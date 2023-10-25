@@ -209,3 +209,28 @@ The controlled statements are usually grouped as a block. In Python, a block is 
 
 Another way to group them is to put them on the same line seperated by semicolons `<keyword> <expression>:<statement>;<statement>`  
 
+Keywords
+- if
+- while
+- for
+- def
+
+Evaluation to True or False
+- Comparison operations
+- Boolean operations
+- Object evaluations
+
+Compare by identity
+- is
+- is not (None)
+
+Membership Operations
+- in
+- not in
+
+Objects that don't evaluate to `True`
+- 0
+- 0.0
+- False
+- None
+- anything with length zero (e.g. "")
