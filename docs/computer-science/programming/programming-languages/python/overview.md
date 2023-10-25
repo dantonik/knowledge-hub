@@ -284,3 +284,17 @@ You can add a pass statement as a placeholder.
 def do_nothing():
 	pass
 ```
+All functions return `None` by default but we can use a return statement to define a value.
+```
+def return_two():
+	return 2
+```
+You can pass parameters by order and by name. The default is by order.
+```
+my_func(first=1, second=2)
+```
+You can also set default values
+```
+def greeting(name='you'):
+	print('Hey, ' + name)
+```
