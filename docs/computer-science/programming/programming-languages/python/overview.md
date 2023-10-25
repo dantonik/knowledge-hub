@@ -244,3 +244,14 @@ elif x == 2:
 else:
 	print('neither')
 ```
+
+#### Match Statements
+```
+match x:
+	case 3:
+		print('3')
+	case 2:
+		print('2')
+	case _:
+		print('neither')
+```
