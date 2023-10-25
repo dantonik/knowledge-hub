@@ -255,3 +255,32 @@ match x:
 	case _:
 		print('neither')
 ```
+
+#### While Loops
+```
+while x < 5:
+	x += 1
+	if x == 3:
+		break
+```
+If your condition is always true you will need a break statement.
+```
+while True:
+	if x >= 3:
+		break
+	x += 1
+```
+
+#### Functions
+A function is a named wrapper that lets you execute a block of code in multiple places.
+```
+def my_func():
+	print('hello')
+
+my_func()
+```
+You can add a pass statement as a placeholder.
+```
+def do_nothing():
+	pass
+```
