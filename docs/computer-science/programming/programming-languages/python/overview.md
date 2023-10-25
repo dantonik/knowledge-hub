@@ -2,7 +2,7 @@
 
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 
-### Where can you run Python code?
+## Where can you run Python code?
 - REPL (Read-Eval-Print Loop)
 - file
 ```
@@ -22,9 +22,9 @@ print(my_program add_two(4))
 When code is saved to file with the purpose of re use, it is called a module.  
 When a module or a group of modules is bundled together specifically for distribution to an installation in multiple python environments it is referred to as a package.  
 
-#### Python Standard Library
+## Python Standard Library
 
-#### Packages
+## Packages
 Package installation with pip.  
 The Python Package Index (pypi)  
 
@@ -48,7 +48,7 @@ List the installed packages with their version number
 pip list
 ```
 
-#### Requirements file
+## Requirements file
 With a requirements file you can make your python project portable.  
 
 You can create one with your currently installed packages including their verion number  
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 pip uninstall -r requirements.txt
 ```
 
-#### Python Virtual Environment
+## Python Virtual Environment
 By default packages are installed across your user environment.  
 
 Problems
@@ -200,7 +200,7 @@ assert a == 2, "a isn't 2"
 ```
 Assert statements slow down a running program, they are usually disabled in production code. This can be done with the `-O` flag.  
 
-## Compound Statements
+### Compound Statements
 Compound statements are composed of a controlling statement and a group of controlled statements.  
 
 Controlling statement `<keyword> <expression>:`  
@@ -235,4 +235,12 @@ Objects that don't evaluate to `True`
 - None
 - anything with length zero (e.g. "")
 
-### If Statements
+#### If Statements
+```
+if x == 3:
+	print('3')
+elif x == 2:
+	print('2')
+else:
+	print('neither')
+```
