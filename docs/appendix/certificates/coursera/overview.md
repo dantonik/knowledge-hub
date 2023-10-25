@@ -23,6 +23,7 @@
 `Toronto` Self-Driving Cars Specialization  
 `ImperialCollegeLondon` Mathematics for Machine Learning Specialization  
 `Illinois` Data Mining Specialization  
+`amii` Machine Learning: Algorithms in the Real World Specialization  
 
 ## Courses
 `Duke` Python and Pandas for Data Engineering  
