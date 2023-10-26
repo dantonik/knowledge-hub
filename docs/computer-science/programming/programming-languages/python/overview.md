@@ -353,3 +353,9 @@ print(x[-1])
 print(x[-3:])
 print(x[:-2])
 ```
+adding/concatenating
+```
+x = 'horse' + 'shoe'
+y = ['pig', 'cow'] + ['horse']
+z = ('Kevin', 'Niklas') + ('Craig')
+```
