@@ -2,6 +2,9 @@
 
 Python is an interpreted general-purpose high-level programming language with easy syntax and dynamic semantics.  
 Python is a dynamically typed language.  
+
+Python source code (.py) is compiled to bytecode (.pyc) and it runs in the Python Virtual Machine (PVM).  
+
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 Exception Handling  
 Debugging  
