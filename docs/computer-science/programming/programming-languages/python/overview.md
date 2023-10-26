@@ -1,5 +1,6 @@
 # Python
 
+Python is an interpreted general-purpose high-level programming language with easy syntax and dynamic semantics.  
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 Exception Handling  
 Debugging  
@@ -8,6 +9,13 @@ Inheritance
 Iterators and Generators  
 List/Dictionary comprehension  
 Sets and command line  
+Multiprocessing  
+Multithreading  
+Unit Testing  
+Decorators  
+Lambdas  
+Regular Expressions  
+Context Managers  
 
 ## Why Python
 - easy to learn
