@@ -1,6 +1,7 @@
 # Python
 
 Python is an interpreted general-purpose high-level programming language with easy syntax and dynamic semantics.  
+Python is a dynamically typed language.  
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 Exception Handling  
 Debugging  
