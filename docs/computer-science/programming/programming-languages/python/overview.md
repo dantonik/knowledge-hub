@@ -330,3 +330,14 @@ You can also set default values
 def greeting(name='you'):
 	print('Hey, ' + name)
 ```
+
+## Sequences
+String, List, Tuple  
+
+Indexing
+```
+x = 'frog'
+print(x[3])
+x = ['frog', 'pig', 'cow']
+print(x[2])
+```
