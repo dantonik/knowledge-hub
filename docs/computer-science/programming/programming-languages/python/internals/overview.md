@@ -2,6 +2,8 @@
 
 [the missing Python AST docs](https://greentreesnakes.readthedocs.io/)  
 [AST observe/rewrite](https://astor.readthedocs.io/)  
+[A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)  
+[Inside the Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)  
 
 CPython uses a stack-oriented virtual machine to execute bytecode.  
 
