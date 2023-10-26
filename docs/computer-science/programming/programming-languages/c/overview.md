@@ -1,4 +1,5 @@
 # C
+C is a statically typed language.  
 
 [How I program C](https://www.youtube.com/watch?v=443UNeGrFoM)
 
