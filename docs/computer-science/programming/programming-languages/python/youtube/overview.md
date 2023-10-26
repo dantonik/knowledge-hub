@@ -10,3 +10,6 @@ Brendan Metcalfe
 NeuralNine  
 FiveCube  
 Giraffe Academy  
+Patrick Loeber  
+
+Dev Internals  
