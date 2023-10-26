@@ -5,6 +5,12 @@ Python is a dynamically typed language.
 
 Python source code (.py) is compiled to bytecode (.pyc) and it runs in the Python Virtual Machine (PVM).  
 
+The bytecode is usually hidden but you can save it through a module in the REPL.
+```
+import py_compile
+py_compile.compile('hello.py')
+```
+
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 Exception Handling  
 Debugging  

@@ -6,3 +6,7 @@ Bro Code
 Corey Schafer  
 b001  
 Real Python  
+Brendan Metcalfe  
+NeuralNine  
+FiveCube  
+Giraffe Academy  
