@@ -11,6 +11,7 @@ z = list((10,20))
 ```
 
 ### List comprehension
+new_list = [transform sequence [filter]]
 ```
 a = [m for m in range(8)]
 b = [i**2 for i in range(10) if i>4]
@@ -132,4 +133,20 @@ x['orange'] = 38 # add or update
 del(x['orange'])
 x.clear() # delete all items
 del(x) # delete dict
+```
+
+### Accessing keys and values
+```
+x.keys()
+x.values()
+x.items() # key-value pairs
+
+'orange' in x # only checks in the keys
+'orange' in x.values()
+
+for key in x:
+	print(key, x[key])
+
+for k, v in x.items():
+	print(k, v)
 ```
