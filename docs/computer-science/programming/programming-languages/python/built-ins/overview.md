@@ -15,6 +15,8 @@ new_list = [transform sequence [filter]]
 ```
 a = [m for m in range(8)]
 b = [i**2 for i in range(10) if i>4]
+
+odds = [x for x in range(10) if x%2 == 1]
 ```
 
 ### Delete
