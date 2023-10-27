@@ -375,6 +375,13 @@ for index, item in enumerate(x):
 	print(index, item)
 ```
 
+## List methods
+`len()`  
+`min()`  
+`max()`  
+`index(item[, beg, end])`  
+`count()`  
+
 ## List comprehension
 Instead of this
 ```
