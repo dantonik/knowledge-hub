@@ -331,7 +331,8 @@ def greeting(name='you'):
 	print('Hey, ' + name)
 ```
 
-## Sequences
+## Basic built-in data structures
+### Sequences
 String, List, Tuple  
 
 Indexing
@@ -360,13 +361,13 @@ y = ['pig', 'cow'] + ['horse']
 z = ('Kevin', 'Niklas') + ('Craig',)
 ```
 
-## Checking membership
+### Checking membership
 ```
 print('u' in x)
 print('test' not in x)
 ```
 
-## Iterating
+### Iterating
 ```
 for item in x:
 	print(item)
@@ -375,7 +376,7 @@ for index, item in enumerate(x):
 	print(index, item)
 ```
 
-## List methods
+### List methods
 `len()`  
 `min()`  
 `max()`  
@@ -384,7 +385,7 @@ for index, item in enumerate(x):
 
 `sum()`  
 
-## Sorting
+### Sorting
 [Sorting HOW TO](https://docs.python.org/3/howto/sorting.html)  
 `sorted()` returns a new list of items in sorted order.  
 The `list.sort()` method modifies the list in place.  
@@ -399,19 +400,19 @@ student_tuples = [
 sorted(student_tuples, key=lambda student: student[2])
 ```
 
-### Operator Module Functions
+#### Operator Module Functions
 ```
 from operator import itemgetter, attrgetter
 sorted(student_tuples, key=itemgetter(2))
 ```
 
-## Unpacking
+### Unpacking
 ```
 x = ['pig', 'cow', 'horse']
 a, b, c = x
 ```
 
-## List comprehension
+### List comprehension
 Instead of this
 ```
 data_pipelines = ['p1','p2','p3']
