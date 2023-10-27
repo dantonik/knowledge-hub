@@ -59,3 +59,10 @@ Reverse the order of the list in place.
 ```
 x.reverse()
 ```
+
+### Sort
+Sort the list in place.
+```
+x.sort()
+x.sort(reverse=True)
+```
