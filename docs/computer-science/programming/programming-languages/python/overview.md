@@ -360,6 +360,21 @@ y = ['pig', 'cow'] + ['horse']
 z = ('Kevin', 'Niklas') + ('Craig',)
 ```
 
+## Checking membership
+```
+print('u' in x)
+print('test' not in x)
+```
+
+## Iterating
+```
+for item in x:
+	print(item)
+
+for index, item in enumerate(x):
+	print(index, item)
+```
+
 ## List comprehension
 Instead of this
 ```
