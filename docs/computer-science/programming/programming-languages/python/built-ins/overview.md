@@ -88,3 +88,11 @@ Stores non-duplicate items.
 Very fast access vs Lists.  
 Math Set ops (union, intersect).  
 Sets are unordered.  
+The items get hashed internally.  
+
+Constructors for sets
+```
+x = {1, 2, 3}
+x = set()
+x = set([1 ,2 ,3])
+```
