@@ -390,6 +390,26 @@ for index, item in enumerate(x):
 The `list.sort()` method modifies the list in place.  
 
 `.sort()` is only defined for lists, `sorted()` accepts any iterable.  
+```
+student_tuples = [
+    ('john', 'A', 15),
+    ('jane', 'B', 12),
+    ('dave', 'B', 10),
+]
+sorted(student_tuples, key=lambda student: student[2])
+```
+
+### Operator Module Functions
+```
+from operator import itemgetter, attrgetter
+sorted(student_tuples, key=itemgetter(2))
+```
+
+## Unpacking
+```
+x = ['pig', 'cow', 'horse']
+a, b, c = x
+```
 
 ## List comprehension
 Instead of this
