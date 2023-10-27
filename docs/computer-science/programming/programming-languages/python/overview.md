@@ -357,5 +357,19 @@ adding/concatenating
 ```
 x = 'horse' + 'shoe'
 y = ['pig', 'cow'] + ['horse']
-z = ('Kevin', 'Niklas') + ('Craig')
+z = ('Kevin', 'Niklas') + ('Craig',)
 ```
+
+## List comprehension
+Instead of this
+```
+data_pipelines = ['p1','p2','p3']
+processed_tables = []
+for table in data_pipelines:
+    processed_tables.append(table)
+```
+You could write this
+```
+processed_tables = [table for table in data_pipelines]
+```
+It's faster and it makes the code more concise.  
