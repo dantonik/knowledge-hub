@@ -96,3 +96,32 @@ x = {1, 2, 3}
 x = set()
 x = set([1 ,2 ,3])
 ```
+### Operations
+```
+x.add(4)
+x.remove(3)
+x.pop() # pops random item from the set
+x.clear()
+```
+
+### Mathematical set operations
+```
+s1 & s2 # intersection (AND)
+s1 | s2 # union (OR)
+s1 ^ s2 # symmetric difference (XOR)
+s1 - s2
+s1 <= s2
+s1 >= s2
+```
+
+## Dictionaries
+Key/Value pairs.  
+Associative array.  
+Dicts are unordered.  
+
+Constructors for dicts
+```
+x = {'pork':25.3, 'duck':33}
+x = dict([('fig', 12), ('apple', 11)]) # List of tuples
+x = dict(fig=12, apple=11) # no quotation marks
+```
