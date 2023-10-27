@@ -382,6 +382,15 @@ for index, item in enumerate(x):
 `index(item[, beg, end])`  
 `count()`  
 
+`sum()`  
+
+## Sorting
+[Sorting HOW TO](https://docs.python.org/3/howto/sorting.html)  
+`sorted()` returns a new list of items in sorted order.  
+The `list.sort()` method modifies the list in place.  
+
+`.sort()` is only defined for lists, `sorted()` accepts any iterable.  
+
 ## List comprehension
 Instead of this
 ```
