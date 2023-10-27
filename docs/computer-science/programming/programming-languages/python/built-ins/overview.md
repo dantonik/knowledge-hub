@@ -66,3 +66,19 @@ Sort the list in place.
 x.sort()
 x.sort(reverse=True)
 ```
+
+## Tuples
+Tuples are immutable. They are useful for fixed data and faster than lists. They are of type sequence.  
+
+Constructors for tuples.
+```
+x = ()
+x = (1,)
+x = 2,
+x = tuple([1, 2, 3])
+```
+
+You can concatenate two tuples.
+```
+y += (4,)
+```
