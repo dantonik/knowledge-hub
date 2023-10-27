@@ -125,3 +125,11 @@ x = {'pork':25.3, 'duck':33}
 x = dict([('fig', 12), ('apple', 11)]) # List of tuples
 x = dict(fig=12, apple=11) # no quotation marks
 ```
+
+### Operations
+```
+x['orange'] = 38 # add or update
+del(x['orange'])
+x.clear() # delete all items
+del(x) # delete dict
+```
