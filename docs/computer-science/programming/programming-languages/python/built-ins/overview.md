@@ -82,3 +82,9 @@ You can concatenate two tuples.
 ```
 y += (4,)
 ```
+
+## Sets
+Stores non-duplicate items.  
+Very fast access vs Lists.  
+Math Set ops (union, intersect).  
+Sets are unordered.  
