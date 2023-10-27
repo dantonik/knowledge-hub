@@ -17,6 +17,10 @@ a = [m for m in range(8)]
 b = [i**2 for i in range(10) if i>4]
 
 odds = [x for x in range(10) if x%2 == 1]
+
+idx = [k for k,v in enumerate(names) if v == 'fig']
+
+new_list = [x if x%2 == 0 else 10*x for x in nums] # must come before iteration
 ```
 
 ### Delete
