@@ -22,3 +22,8 @@ class Employee:
 
 emp = Employee('Test', 'User', 50000)
 ```
+Both lines do the same thing.
+```
+emp.fullname()
+Employee.fullname(emp)
+```
