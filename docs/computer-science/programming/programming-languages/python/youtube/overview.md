@@ -42,3 +42,11 @@ North Bay Python
 ### Little Projects
 [Split Integer Into Digits](https://www.youtube.com/watch?v=c6iDh92_w9w)  
 [Converting a string list into an integer list in 1 line](https://www.youtube.com/watch?v=1e20QqX9QFc)  
+
+### Talks
+[Clean Architecture in Python](https://www.youtube.com/watch?v=C7MRkqP5NRI)  
+[What is a Coroutine Anyway?](https://www.youtube.com/watch?v=GSiZkP7cI80)  
+[Catching up on the weird world of LLMs](https://www.youtube.com/watch?v=h8Jth_ijZyY)  
+[Mike Huls - Python under the hood: why Python is so slow and how to speed it up](https://www.youtube.com/watch?v=N7cgUnW-tZQ)  
+[Exploring Python Bytecode](https://www.youtube.com/watch?v=GNPKBICTF2w)  
+[Memoization: The TRUE Way To Optimize Your Code In Python](https://www.youtube.com/watch?v=qORqpMg3Uew)  
