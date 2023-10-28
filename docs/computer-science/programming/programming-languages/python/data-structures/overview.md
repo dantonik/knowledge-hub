@@ -4,6 +4,8 @@
 LIFO - Last-In First-Out  
 All push and pop operations are to/from the top of the Stack.  
 Peek - get item on top of stack, without removing it.  
+
+### Simple stack with a python list
 ```
 stack = list()
 stack.append(4)
@@ -16,6 +18,11 @@ stack.pop()
 ```
 `[4, 7]`
 
+### Using a wrapper class
+```
+class Stack():
+	
+```
 
 ## Queues
 
