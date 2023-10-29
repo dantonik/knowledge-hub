@@ -41,6 +41,7 @@ class Stack():
 
 ## Queues
 FIFO - First-In First-Out.  
+[Deque docs](https://docs.python.org/3/library/collections.html#collections.deque)  
 ```
 from collections import deque
 my_queue = deque()
@@ -48,3 +49,12 @@ my_queue.append(5)
 my_queue.append(10)
 my_queue.popleft()
 ```
+
+## Heaps
+Uses  
+- heapsort
+- priority queues
+Types  
+- max-heap
+- min-heap
+
