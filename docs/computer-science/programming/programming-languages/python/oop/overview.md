@@ -40,6 +40,21 @@ Employee.fullname(emp)
 Class Variables are variables that are shared among all instances of a class.  
 
 ## Methods
-Regular methods  
+Regular methods take the instance as the first argument.  
 Class methods  
 Static methods  
+```
+class Employee:
+	[...]
+	@classmethod
+	def set_raise_amount(cls, amount)
+		cls.raise_amount = amount
+
+	@classmethod
+	def from_string(cls, emp_str)
+		first, last, pay = emp_str.split('-')
+		return cls(first, last, pay)
+
+Employee.set_raise_amount(1.05)
+emp = Employee.from_string(str)
+```
