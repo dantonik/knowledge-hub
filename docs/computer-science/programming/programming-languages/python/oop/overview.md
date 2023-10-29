@@ -105,8 +105,11 @@ def __add__(self, other):
 
 [Docs Emulating numeric types](https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types)  
 
-## Misc
 ```
 print(int.__add__(1,2))
+print('test'.__len__()) # used when len('test') is called
 ```
-`3`
+`3`  
+`4`  
+
+## Property decorators
