@@ -58,3 +58,4 @@ Types
 - max-heap
 - min-heap
 
+Max-heaps are used for heapsort, min-heaps are great for priority queues.  
