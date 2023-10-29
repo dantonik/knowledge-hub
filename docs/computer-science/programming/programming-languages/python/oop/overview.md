@@ -43,6 +43,8 @@ Class Variables are variables that are shared among all instances of a class.
 Regular methods take the instance as the first argument.  
 Class methods  
 Static methods  
+
+Static method
 ```
 class Employee:
 	[...]
@@ -58,3 +60,32 @@ class Employee:
 Employee.set_raise_amount(1.05)
 emp = Employee.from_string(str)
 ```
+Static method
+```
+class Employee:
+	[...]
+	@staticmethod
+	def is_workday(day):
+		if day.weekday() == 5 or day.weekday() == 6:
+			return False
+		return True
+```
+
+## Inheritance
+
+```
+class Developer(Employee):
+	def __init__(self, first, last, pay, prog_lang):
+		super().__init__(irst, last, pay)
+		self.prog_lang = prog_lang
+
+dev = Developer('Test', 'User', 50000, 'Python')
+```
+
+## isinstance
+```
+print(isinstance(dev, Employee))
+print(issubclass(Developer, Employee))
+```
+
+## Special methods
