@@ -1,7 +1,7 @@
 # Overview
 
 ## Stacks
-LIFO - Last-In First-Out  
+LIFO - Last-In First-Out.  
 All push and pop operations are to/from the top of the Stack.  
 Peek - get item on top of stack, without removing it.  
 
@@ -40,4 +40,11 @@ class Stack():
 ```
 
 ## Queues
-
+FIFO - First-In First-Out.  
+```
+from collections import deque
+my_queue = deque()
+my_queue.append(5)
+my_queue.append(10)
+my_queue.popleft()
+```
