@@ -89,3 +89,24 @@ print(issubclass(Developer, Employee))
 ```
 
 ## Special methods
+Operator overloading.  
+`def __repr__(self):`  
+`def __str__(self):`  
+```
+def __repr__(self):
+	return "Employee('{}', '{}', '{})".format(self.first, self.last, self.pay)
+
+det __str__(self):
+	return '{} - {}'.format(self.fullname(), self.email)
+
+def __add__(self, other):
+	return self.pay + other.pay
+```
+
+[Docs Emulating numeric types](https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types)  
+
+## Misc
+```
+print(int.__add__(1,2))
+```
+`3`
