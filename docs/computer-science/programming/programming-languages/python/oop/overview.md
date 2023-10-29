@@ -113,3 +113,24 @@ print('test'.__len__()) # used when len('test') is called
 `4`  
 
 ## Property decorators
+Getters, Setters, Deleters  
+```
+[...]
+	@property
+	def email(self):
+		return '{}.{}@email.com'.format(self.first, self.last)
+
+	@fullname.setter
+	def fullname(self, name):
+		first, last = name.split(' ')
+		self.first = first
+		self.last = last
+
+	@fullname.deleter
+	def fullname(self):
+		print('Delete Name!')
+		self.first = None
+		self.last = None
+
+del emp.fullname
+```
