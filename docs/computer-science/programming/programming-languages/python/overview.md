@@ -11,6 +11,8 @@ import py_compile
 py_compile.compile('hello.py')
 ```
 
+[Download Python Documentation](https://docs.python.org/dev/download.html)  
+
 [Stanford Python Guide](https://cs.stanford.edu/people/nick/py/)
 Exception Handling  
 Debugging  

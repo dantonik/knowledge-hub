@@ -11,6 +11,7 @@ Data and functions associated with a specifi class are called attributes and met
 A class is a blueprint for creating instances.  
 ```
 class Employee:
+	n_emps = 0
 	raise_amount = 1.04
 
 	def __init__(self, first, last, pay): # constructor
@@ -18,6 +19,8 @@ class Employee:
 		self.last = last
 		self.pay = pay
 		self.email = first + '.' + last + '@company.com'
+
+		Employee.n_emps += 1
 
 	def fullname(self):
 		return '{} {}'.format(self.first, self.last)
@@ -35,3 +38,8 @@ Employee.fullname(emp)
 
 ## Class Variables
 Class Variables are variables that are shared among all instances of a class.  
+
+## Methods
+Regular methods  
+Class methods  
+Static methods  
