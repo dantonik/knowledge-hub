@@ -134,3 +134,6 @@ Getters, Setters, Deleters
 
 del emp.fullname
 ```
+
+## super()
+super() return a proxy object (temporary object of the superclass) that allows us to access methods of the base class.  
