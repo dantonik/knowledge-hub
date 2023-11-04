@@ -141,3 +141,31 @@ del emp.fullname
 super() return a proxy object (temporary object of the superclass) that allows us to access methods of the base class.  
 
 Method Resolution Order (MRO) is the order in which methods should be inherited in the presence of multiple inheritance. You can view the MRO by using the `__mro__` attribute.  
+
+## Descriptors
+
+```
+class Descriptor:
+    def __get__(self, obj, objtype=None):
+        ...
+    def __set__(self, obj, value):
+        ...
+    def __delete__(self, obj):
+        ...
+```
+```
+obj = Desriptor()
+print(obj.x)
+print(Descriptor.x)
+obj.x = 42
+del obj.x
+```
+```
+class SomeClass:
+    def __getattr__(self, item):
+        ...
+    def __setattr__(self, key, value):
+        ...
+    def __delattr__(self, item):
+        ...
+```
