@@ -144,6 +144,7 @@ Method Resolution Order (MRO) is the order in which methods should be inherited 
 
 ## Descriptors
 
+Per class
 ```
 class Descriptor:
     def __get__(self, obj, objtype=None):
@@ -160,6 +161,7 @@ print(Descriptor.x)
 obj.x = 42
 del obj.x
 ```
+Per attribute
 ```
 class SomeClass:
     def __getattr__(self, item):
