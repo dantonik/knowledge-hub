@@ -5,6 +5,8 @@
 [A Python Interpreter Written in Python](https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)  
 [Inside the Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read)  
 
+[How variables work in Python](https://www.youtube.com/watch?v=Bz3ir-vKqkk)  
+
 CPython uses a stack-oriented virtual machine to execute bytecode.  
 
 ## Integers
@@ -41,3 +43,4 @@ In default Python that is from -5 to 256.
 
 ## Optimization
 Constant folding  
+
