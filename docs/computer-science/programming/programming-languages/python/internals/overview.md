@@ -54,3 +54,13 @@ typedef struct _object {
 } PyObject;
 ```
 Lists are `PyVarObject`s.  
+
+## +=
+```
+x = [1, 2]
+x = x + [3, 4] # this is evaluated right to left and returns a new object
+
+x += [3, 4]
+# internally calls
+x = list.__iadd__(x, [3, 4])
+```
