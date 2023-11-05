@@ -64,3 +64,12 @@ x += [3, 4]
 # internally calls
 x = list.__iadd__(x, [3, 4])
 ```
+
+## Size of an object
+we can use the sys module to get the size of an object.  
+```
+import sys
+
+r = range(3)
+sys.getsizeof(r)
+```
