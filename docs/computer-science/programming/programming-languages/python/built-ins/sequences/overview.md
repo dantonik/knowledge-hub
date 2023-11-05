@@ -38,3 +38,5 @@ name.index('i')
 ## Strings
 `string.index('e')` will throw an error if it can't find the string.  
 `string.find('e')` is an alternative that returns `-1`.  
+`.startswith('e')`  
+`.endswith('e')`  
