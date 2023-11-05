@@ -40,3 +40,11 @@ name.index('i')
 `string.find('e')` is an alternative that returns `-1`.  
 `.startswith('e')`  
 `.endswith('e')`  
+
+## Format strings
+Introduced in Python 3.6  
+Prefixed by either a 'F' or 'f'  
+Values are inserted at runtime using replacement fields.  
+```
+f"Example {1}"
+```
