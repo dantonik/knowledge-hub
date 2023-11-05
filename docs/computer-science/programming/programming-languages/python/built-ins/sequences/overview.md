@@ -47,4 +47,11 @@ Prefixed by either a 'F' or 'f'
 Values are inserted at runtime using replacement fields.  
 ```
 f"Example {1}"
+
+num = 13
+padding = 5
+f"places:{num:{padding}d}"
+
+num = 1234567890
+f"Your balance is {balance:,}"
 ```
