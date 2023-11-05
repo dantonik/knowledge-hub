@@ -29,3 +29,12 @@ name.index('i')
 ```
 
 ## Math
+```
+"prefix" + "-" + "postfix"
+[1, 2] + [3, 4]
+[0, 2] * 4
+```
+
+## Strings
+`string.index('e')` will throw an error if it can't find the string.  
+`string.find('e')` is an alternative that returns `-1`.  
