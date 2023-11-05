@@ -53,3 +53,4 @@ typedef struct _object {
     struct _typeobject *ob_type;
 } PyObject;
 ```
+Lists are `PyVarObject`s.  
