@@ -73,3 +73,6 @@ import sys
 r = range(3)
 sys.getsizeof(r)
 ```
+
+## Hash functions
+All immutable data types in Python have hash functions.  
