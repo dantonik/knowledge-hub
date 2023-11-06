@@ -18,3 +18,8 @@ Dictionary Methods
 key to be searched for.  
 value (optional) to be returned if the key is not found.  
 
+## Methods
+- keys method
+- values method
+- items method
+
