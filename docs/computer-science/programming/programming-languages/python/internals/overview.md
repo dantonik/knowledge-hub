@@ -76,3 +76,4 @@ sys.getsizeof(r)
 
 ## Hash functions
 All immutable data types in Python have hash functions.  
+`item.__hash__()`  
