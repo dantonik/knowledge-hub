@@ -36,3 +36,8 @@ s3 = s1.union(s2)
 ```
 s3 = s1.intersection(s2)
 ```
+
+### Difference
+```
+s3 = s1.difference(s2)
+```
