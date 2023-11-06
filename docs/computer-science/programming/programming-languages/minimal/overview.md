@@ -9,3 +9,5 @@ No fancy data types.
 - str
 
 No need for functions.  
+
+With logic gates and binary you have a functionally complete system.  
