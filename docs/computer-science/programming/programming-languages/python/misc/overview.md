@@ -9,3 +9,10 @@ def main():
 if __name__ == '__main__':
 	main()
 ```
+
+## Walrus Operator
+```
+def analyze_text(text: str) -> dict:
+    details: dict = {'words': (words := text.split()),
+                     'amount': len(words)}
+```
