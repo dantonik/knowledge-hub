@@ -1,6 +1,7 @@
 # Overview
 
 [OOP in Python](https://www.youtube.com/watch?v=-pEs-Bss8Wc)  
+[5 Tips For Object-Oriented Programming Done Well](https://www.youtube.com/watch?v=-ghD-XjjO2g)  
 
 Creating and instantiating classes.  
 Inheritance.  
