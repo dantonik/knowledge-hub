@@ -13,6 +13,8 @@ Giraffe Academy
 Patrick Loeber  
 anthonywritescode  
 indently  
+Python and Pandas with Reuven Lerner  
+DrapsTV  
 
 Dev Internals  
 
