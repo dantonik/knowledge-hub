@@ -19,3 +19,11 @@ else:
 	line = lines[line_number - 1].rstrip('\n')
 	print(line)
 ```
+
+## Web Scraping for data collection
+
+[I built my own Reddit API to beat Inflation. Web Scraping for data collection. ](https://www.youtube.com/watch?v=O_0IGoOX6Dw)  
+
+Playwright  
+Puppeteer  
+[reddit-api code](https://github.com/dreamsofcode-io/reddit-api)  
