@@ -22,6 +22,7 @@ Dev Internals
 North Bay Python  
 
 ## Saved
+[Python Stuff](https://www.youtube.com/playlist?list=PLYmIsLVSssdKSD4X2p6ckQ2flhI-p1zq_)  
 [Python Tutorials](https://www.youtube.com/playlist?list=PLd_Oyt6lAQ8TSlFn9SQ0_laovTHzf3JeX)  
 
 `12,5h`[DS and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)  

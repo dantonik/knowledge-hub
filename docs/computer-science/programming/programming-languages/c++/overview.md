@@ -4,3 +4,5 @@
 [The Essence of C++ by Stroustrup](https://www.youtube.com/watch?v=86xWVb4XIyE)
 
 [Branchless Programming in C++](https://www.youtube.com/watch?v=g-WPhYREFjk)
+
+[General C++(https://www.youtube.com/playlist?list=PLYmIsLVSssdLsw9ic8TV8wcEky5TGc4Ro)  
