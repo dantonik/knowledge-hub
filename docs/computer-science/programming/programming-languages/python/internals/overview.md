@@ -7,6 +7,8 @@
 
 [How variables work in Python](https://www.youtube.com/watch?v=Bz3ir-vKqkk)  
 
+`Deep`[(C)Python 2.7.8 - Internals](https://www.youtube.com/playlist?list=PL_bZxIeSa3_-jLnTCaBSDYtJUBPuat10A)  
+
 CPython uses a stack-oriented virtual machine to execute bytecode.  
 
 ## Integers
