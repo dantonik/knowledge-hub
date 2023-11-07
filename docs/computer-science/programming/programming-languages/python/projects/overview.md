@@ -1,4 +1,7 @@
 # Overview
+
+[I built my own Reddit API to beat Inflation. Web Scraping for data collection.](https://www.youtube.com/watch?v=O_0IGoOX6Dw)  
+
 Get user input
 ```
 filename = input("File: ")
