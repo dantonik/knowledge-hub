@@ -22,6 +22,17 @@ YT: [Prof. Dittrich](https://www.youtube.com/@jensdit)
 
 [CIDR DB](https://www.youtube.com/@cidrdb/videos)
 
+## What is Data?
+- Facts
+- Observations
+- Perceptions
+
+- Numbers
+- Characters
+- Symbols
+
+- Images
+
 ## Data Repositories
 - Transactional (OLTP)
 - Analytical (OLAP)
