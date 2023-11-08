@@ -16,3 +16,5 @@ Transactions
 - views
 - functions
 - stored procedures
+- triggers
+- indexes
