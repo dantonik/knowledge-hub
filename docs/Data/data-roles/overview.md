@@ -13,3 +13,5 @@ Analysis is performed on things that have already happened.
 --> How? Why?  
 
 Analytics generally refers to the future.  
+- Qualitative analytics (intuition + analysis)
+- Quantitative analytics (formulas + algorithms)
