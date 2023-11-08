@@ -23,5 +23,5 @@ YT: [Prof. Dittrich](https://www.youtube.com/@jensdit)
 [CIDR DB](https://www.youtube.com/@cidrdb/videos)
 
 ## Data Repositories
-- Transactional
-- Analytical
+- Transactional (OLTP)
+- Analytical (OLAP)
