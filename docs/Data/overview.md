@@ -33,6 +33,25 @@ YT: [Prof. Dittrich](https://www.youtube.com/@jensdit)
 
 - Images
 
+- Structured
+- Semi-structured
+- Unstructured
+
+## Semi-structured data
+- E-mails
+- XML and other markup languages
+- Binary executable
+- TCP/IP packets
+- Zipped files
+
+## Unstructured data
+- Web pages
+- Social media feeds
+- Images in varied file formats
+- Video and Audio files
+- Documents and PDF files
+- PowerPoint presentations
+
 ## Data Repositories
 - Transactional (OLTP)
 - Analytical (OLAP)
