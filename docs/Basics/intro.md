@@ -20,6 +20,7 @@ Started on the 26th of September
 :::
 
 [Python Overview](../computer-science/programming/programming-languages/python/overview.md)  
+[Algorithms for Competitive Programming](https://cp-algorithms.com/)  
 
 #### Data Engineering Skills
 - Deep understanding of database design & architecture (SQL/NoSQL)
@@ -68,3 +69,5 @@ Started on the 26th of September
 `Google`[Guide for technical development](https://techdevguide.withgoogle.com/)
 
 `Website`[Teach Yourself CS](https://teachyourselfcs.com/)
+
+[operating systems, computer networks, and computer architecture](https://www.youtube.com/@jochenschiller9521/videos)  
