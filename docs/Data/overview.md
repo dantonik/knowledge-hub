@@ -55,3 +55,8 @@ YT: [Prof. Dittrich](https://www.youtube.com/@jensdit)
 ## Data Repositories
 - Transactional (OLTP)
 - Analytical (OLAP)
+
+## Metadata
+- technical metadata
+- process metadata
+- business metadata
