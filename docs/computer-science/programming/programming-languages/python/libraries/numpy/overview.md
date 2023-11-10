@@ -28,4 +28,15 @@ There are two ways
 ```
 array_a[1][0]
 array_a[1,0]
+
+array_a[:,0]
 ```
+
+## Assigning Values
+```
+array_a[0,2] = 9
+
+array_a[0] = 9 # sets the whole row to 9
+```
+
+## Elementwise Properties
