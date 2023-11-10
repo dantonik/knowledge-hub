@@ -46,3 +46,17 @@ array_a + array_b
 ```
 You can perform arithmetic operations on arrays of different shapes.  
 [Broadcasting](https://numpy.org/doc/stable/user/basics.broadcasting.html)  
+
+## Data Types
+All the numerical datatypes supported by C.  
+```
+array_a = np.array([1, 2, 3], dtype=str)
+```
+
+## Universal Functions
+Work with arrays on an element-by-element bases.  
+
+- mathematical operations
+- trigonometric functions
+- comparison functions
+
