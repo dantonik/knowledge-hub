@@ -40,3 +40,7 @@ array_a[0] = 9 # sets the whole row to 9
 ```
 
 ## Elementwise Properties
+```
+array_a + 2
+array_a + array_b
+```
