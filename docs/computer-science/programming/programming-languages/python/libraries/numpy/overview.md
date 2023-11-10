@@ -44,3 +44,5 @@ array_a[0] = 9 # sets the whole row to 9
 array_a + 2
 array_a + array_b
 ```
+You can perform arithmetic operations on arrays of different shapes.  
+[Broadcasting](https://numpy.org/doc/stable/user/basics.broadcasting.html)  
