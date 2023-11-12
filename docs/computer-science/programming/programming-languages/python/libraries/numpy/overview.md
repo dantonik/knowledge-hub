@@ -61,3 +61,7 @@ Work with arrays on an element-by-element bases.
 - comparison functions
 
 ## Broadcasting
+1. The arrays have the same shape
+2. The length of each dimension is either common or 1
+3. The arrays that have too few dimensions can have their shapes altered with a dimension 1, to satisfy the second rule
+
