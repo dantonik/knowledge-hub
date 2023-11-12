@@ -70,3 +70,10 @@ Work with arrays on an element-by-element bases.
 np.add(array_a, array_b, dtype=float64)
 ```
 That does not only change the result, but rather changes the inputs themselves.  
+
+## Running over an Axis
+```
+np.mean(matrix_c, axis = 0)
+```
+axis=0: Finding the mean of each column of the array.  
+axis=1: Finding the mean of each row of the array.  
