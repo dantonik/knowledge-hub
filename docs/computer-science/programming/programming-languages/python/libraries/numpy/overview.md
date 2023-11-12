@@ -69,3 +69,4 @@ Work with arrays on an element-by-element bases.
 ```
 np.add(array_a, array_b, dtype=float64)
 ```
+That does not only change the result, but rather changes the inputs themselves.  
