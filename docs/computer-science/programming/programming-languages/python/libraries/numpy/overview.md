@@ -77,3 +77,9 @@ np.mean(matrix_c, axis = 0)
 ```
 axis=0: Finding the mean of each column of the array.  
 axis=1: Finding the mean of each row of the array.  
+
+## Slicing
+Slicing can be done for each dimension of the array.  
+```
+matrix_a[:,:]
+```
