@@ -60,3 +60,4 @@ Work with arrays on an element-by-element bases.
 - trigonometric functions
 - comparison functions
 
+## Broadcasting
