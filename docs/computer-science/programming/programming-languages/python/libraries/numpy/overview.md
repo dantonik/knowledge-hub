@@ -65,3 +65,7 @@ Work with arrays on an element-by-element bases.
 2. The length of each dimension is either common or 1
 3. The arrays that have too few dimensions can have their shapes altered with a dimension 1, to satisfy the second rule
 
+## Type Casting
+```
+np.add(array_a, array_b, dtype=float64)
+```
