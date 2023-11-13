@@ -12,3 +12,15 @@ print(my_name[0])
 print(my_name.first)
 ```
 
+## deques
+
+## defaultdict
+
+## Counter
+```
+from collections import Counter
+
+votes = [...]
+c = Counter(votes)
+print(c.most_common())
+```
