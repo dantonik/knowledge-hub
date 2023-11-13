@@ -6,4 +6,17 @@
 
 ## Supervised learning
 
+### Regression
+Aim to predict a continuous variable.  
+- Customer Lifetime Value
+- Revenue
+- Sales
+
+### Classification
+Aim to predict a categorical variable.  
+- User retention
+- User conversion
+- Email opens
+- User sentiment
+
 ## Unsupervised learning
