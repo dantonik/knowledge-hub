@@ -7,6 +7,7 @@
 - Plato (428/427-348 BC)
 - Aristotle (384-322 BC)
 
+- Schopenhauer (1788-1860)
 - Nietzsche (1844-1900)
 
 Lebensphilosophie  
