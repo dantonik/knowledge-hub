@@ -6,3 +6,7 @@
 - Socrates (470-399 BC)
 - Plato (428/427-348 BC)
 - Aristotle (384-322 BC)
+
+- Nietzsche (1844-1900)
+
+Lebensphilosophie  

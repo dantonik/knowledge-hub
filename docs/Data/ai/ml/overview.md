@@ -20,3 +20,17 @@ Aim to predict a categorical variable.
 - User sentiment
 
 ## Unsupervised learning
+
+## Problem definition
+Framing the problem.  
+
+
+## Null values
+```
+pd.isnull().any()
+pd.isnull().sum()
+```
+
+Why are values missing?  
+MCAR - missing completely at random  
+MAR - missing at random  
