@@ -10,5 +10,6 @@
 - Kant (1724-1804)
 - Schopenhauer (1788-1860)
 - Nietzsche (1844-1900)
+- Karl Popper (1902-1994)
 
 Lebensphilosophie  
