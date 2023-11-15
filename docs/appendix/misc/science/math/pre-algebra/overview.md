@@ -28,3 +28,5 @@ Estimating - Round first, then add/sub.
 Factor x Factor = Product  
 Commutative property.  
 Associative property.  
+
+Distributive property.  
