@@ -1,3 +1,4 @@
 # Overview
 
-Place value  
+Place value - The position of each digit in a number.  
+
