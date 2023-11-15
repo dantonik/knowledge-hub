@@ -5,3 +5,8 @@
 
 Place value - The position of each digit in a number.  
 Expanded form.  
+
+## Addition
+Addend + addend = sum  
+
+## Substraction
