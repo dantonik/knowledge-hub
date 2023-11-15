@@ -18,3 +18,5 @@ minuend - subtrahend = difference
 
 ## Perimeter
 The distance around a polygon.  
+
+Polygon - A closed shape with straight sides.  
