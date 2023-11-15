@@ -1,6 +1,7 @@
 # Overview
 
 [Prealgebra Textbook](https://www.redwoods.edu/Portals/121/PreAlgText/Prealgebra.pdf?ver=2016-02-09-153714-077)  
+[Prealgebra Playlist](https://www.youtube.com/playlist?list=PL7D04E9B9C4C01309)  
 
 Place value - The position of each digit in a number.  
-
+Expanded form.  
