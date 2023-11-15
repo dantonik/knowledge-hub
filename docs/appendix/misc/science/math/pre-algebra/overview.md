@@ -8,5 +8,10 @@ Expanded form.
 
 ## Addition
 Addend + addend = sum  
+Commutative property.  
+Associative property.  
+- carry
 
-## Substraction
+## Subtraction
+minuend - subtrahend = difference  
+- borrow
