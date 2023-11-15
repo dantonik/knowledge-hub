@@ -15,3 +15,6 @@ Associative property.
 ## Subtraction
 minuend - subtrahend = difference  
 - borrow
+
+## Perimeter
+The distance around a polygon.  
