@@ -20,3 +20,5 @@ minuend - subtrahend = difference
 The distance around a polygon.  
 
 Polygon - A closed shape with straight sides.  
+
+## Rounding and Estimating
