@@ -26,3 +26,5 @@ Estimating - Round first, then add/sub.
 
 ## Multiplication of Whole Numbers
 Factor x Factor = Product  
+Commutative property.  
+Associative property.  
