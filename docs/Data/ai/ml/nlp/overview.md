@@ -14,3 +14,7 @@ Understanding the emotions in our text.
 Text vectorization  
 Topic modeling  
 Classifier  
+
+## Stop words
+Stop words don't carry much meaning.  
+`and, of, a, to`  
