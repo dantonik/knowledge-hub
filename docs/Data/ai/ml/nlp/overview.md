@@ -26,3 +26,18 @@ en_stopwords = stopwords.words('english')
 
 sentence_no_stopwords = ' '.join(word for word in sentence.split() if word not in en_stopwords)
 ```
+
+## Regular expressions
+```
+import re
+result_search = re.search("pattern", r"string to contain the pattern")
+
+for string in customer_reviews:
+    if (re.search(pattern, string)):
+        matching_reviews.append(string)
+```
+```
+pattern = r"y$"
+pattern = r"^a"
+pattern = r"(need|want)ed"
+```
