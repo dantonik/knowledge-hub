@@ -18,3 +18,11 @@ Classifier
 ## Stop words
 Stop words don't carry much meaning.  
 `and, of, a, to`  
+```
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+en_stopwords = stopwords.words('english')
+
+sentence_no_stopwords = ' '.join(word for word in sentence.split() if word not in en_stopwords)
+```
