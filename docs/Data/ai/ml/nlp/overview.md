@@ -64,5 +64,8 @@ word_tokenize(sentence)
 Words get reduced to their base form.  
 
 ```
+from nltk.stem import PorterStemmer
 
+ps = PorterStemmer()
+ps.stem(token)
 ```
