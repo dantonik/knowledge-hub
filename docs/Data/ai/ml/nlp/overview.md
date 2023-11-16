@@ -69,3 +69,24 @@ from nltk.stem import PorterStemmer
 ps = PorterStemmer()
 ps.stem(token)
 ```
+
+## Lemmatization
+```
+nltk.download('wordnet')
+from nltk.stem import WordNetLemmatizer
+
+lem = WordNetLemmatizer
+lem.lemmatizer(token)
+```
+
+## N-grams
+```
+import nltk
+import pandas as pd
+import matplotlib.pyplot as plt
+
+unigrams = (pd.Series(nltk.ngrams(tokens, 1))).value_counts()
+unigrams[:10].sort_values().plot.barh(color="lightsalmon", width=.9, figsize=(12,8))
+plt.title("10 Most frequently occuring unigrams")
+```
+bigrams is the same but with n=2.  
