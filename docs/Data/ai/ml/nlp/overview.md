@@ -90,3 +90,10 @@ unigrams[:10].sort_values().plot.barh(color="lightsalmon", width=.9, figsize=(12
 plt.title("10 Most frequently occuring unigrams")
 ```
 bigrams is the same but with n=2.  
+
+## Language modeling
+- Suggestions in messengers
+- Spelling correction
+- Machine translation
+- Speech recognition
+- Handwriting recognition
