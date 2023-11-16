@@ -41,3 +41,11 @@ pattern = r"y$"
 pattern = r"^a"
 pattern = r"(need|want)ed"
 ```
+```
+no_punct_reviews = []
+pattern = r"[^\w\s]"
+
+for string in customer_reviews:
+    no_punct_string = re.sub(pattern, "", string)
+    no_punct_reviews.append(no_punct_string)
+```
