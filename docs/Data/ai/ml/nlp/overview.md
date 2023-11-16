@@ -49,3 +49,20 @@ for string in customer_reviews:
     no_punct_string = re.sub(pattern, "", string)
     no_punct_reviews.append(no_punct_string)
 ```
+
+## Tokenization
+```
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+sent_tokenize(sentences)
+word_tokenize(sentence)
+```
+
+## Stemming
+Words get reduced to their base form.  
+
+```
+
+```
