@@ -30,4 +30,4 @@ Running total of seconds.
 Began recording on Jan 1. 1970 at 0:00 UTC.  
 The beginning of the unix epoch.  
 
-ISO, 8-6-0-1'  
+ISO, 8-6-0-1' year/month/day h/min/sec  
