@@ -24,3 +24,5 @@ Overviews a sequence of observations throughout regular duration intervals
 - daily stock price changes
 - monthly revenues
 - sales for specific periods of time
+
+## Unix time
