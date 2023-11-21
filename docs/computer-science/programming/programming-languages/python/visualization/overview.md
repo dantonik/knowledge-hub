@@ -31,3 +31,6 @@ Based on gglot in R.
 
 ## Altair
 Declarative visualization.  
+
+## pandas
+Matplotlib but you can call it from pandas.  
