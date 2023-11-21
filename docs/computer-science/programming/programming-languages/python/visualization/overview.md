@@ -20,3 +20,8 @@ from bokeh.io import output_notebook, push_notebook, show
 
 output_notebook()
 ```
+
+## plotly express
+```
+import plotly.express as px
+```
