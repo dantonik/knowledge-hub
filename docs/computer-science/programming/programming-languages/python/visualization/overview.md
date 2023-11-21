@@ -25,3 +25,9 @@ output_notebook()
 ```
 import plotly.express as px
 ```
+
+## plotnine (ggplot)
+Based on gglot in R.  
+
+## Altair
+Declarative visualization.  
