@@ -99,3 +99,15 @@ bigrams is the same but with n=2.
 - Handwriting recognition
 
 ## Semantic Textual Similarity (STS)
+
+## Word Embeddings
+- Word2Vec
+- GloVe
+- ELMo
+- FastText
+
+## Sentence Embeddings
+- Universal Sentence Encoder (USE)
+- Doc2Vec
+- SentenceBERT
+- InferSent
