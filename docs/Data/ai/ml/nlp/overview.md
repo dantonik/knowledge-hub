@@ -97,3 +97,5 @@ bigrams is the same but with n=2.
 - Machine translation
 - Speech recognition
 - Handwriting recognition
+
+## Semantic Textual Similarity (STS)
