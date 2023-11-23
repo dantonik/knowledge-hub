@@ -111,3 +111,6 @@ bigrams is the same but with n=2.
 - Doc2Vec
 - SentenceBERT
 - InferSent
+
+## Paraphrase Database
+Contains 100M+ 
