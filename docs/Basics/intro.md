@@ -15,7 +15,7 @@ import TabItem from '@theme/TabItem';
 
 Just a place to keep some structured notes mostly about tech related stuff.
 
-Started on the 26th of September
+est. 26th of September
 
 :::
 
