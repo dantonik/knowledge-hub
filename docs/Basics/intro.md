@@ -40,13 +40,13 @@ est. 26th of September
 [Awesome DE Roadmap](https://awesomedataengineering.com/)  
 [Awesome DE](https://github.com/igorbarinov/awesome-data-engineering)  
 
-[Introduction to CS and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+[Introduction to CS and Programming in Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)  
 
 
-`playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)
+`playlist`: [Data Engineering University of Antwerp](https://www.youtube.com/playlist?list=PLbiJKrXiiH5srEUZcXoicNhMaqKgKHlTJ)  
 
-`playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
-[Lecture Archive](https://www.youtube.com/@LectureArchive)
+`playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)  
+[Lecture Archive](https://www.youtube.com/@LectureArchive)  
 
 `german`: [MarkusS](https://www.youtube.com/@hackandcode9869/featured)  
 
