@@ -5,3 +5,9 @@ BigQuery is Google's fully managed, serverless DWH that enables scalable analysi
 - Storage
 - Ingestion
 - Querying
+
+Public datasets  
+- GSOD - Global Surface Summary of the Day Weather Data
+- NYC TLC Trips
+
+## Sandbox

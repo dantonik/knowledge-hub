@@ -48,10 +48,10 @@ est. 26th of September
 `playlist`: [Adi Teman](https://www.youtube.com/@AdiTeman/playlists)
 [Lecture Archive](https://www.youtube.com/@LectureArchive)
 
-`german`: [MarkusS](https://www.youtube.com/@hackandcode9869/featured)
+`german`: [MarkusS](https://www.youtube.com/@hackandcode9869/featured)  
 
-`Google`[Guide for technical development](https://techdevguide.withgoogle.com/)
+`Google`[Guide for technical development](https://techdevguide.withgoogle.com/)  
 
-`Website`[Teach Yourself CS](https://teachyourselfcs.com/)
+`Website`[Teach Yourself CS](https://teachyourselfcs.com/)  
 
 [operating systems, computer networks, and computer architecture](https://www.youtube.com/@jochenschiller9521/videos)  
