@@ -25,6 +25,8 @@ Polygon - A closed shape with straight sides.
 Estimating - Round first, then add/sub.  
 
 ## Multiplication of Whole Numbers
+Repeated addition.  
+
 Factor x Factor = Product  
 Commutative property.  
 Associative property.  
