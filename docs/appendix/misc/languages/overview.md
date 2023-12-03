@@ -1,3 +1,5 @@
 # Overview
 
-Comprehensible input  
+Stephen Krashen  
+Comprehensible input -> understanding messages  
+
