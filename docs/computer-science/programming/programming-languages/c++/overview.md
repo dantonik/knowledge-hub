@@ -30,3 +30,5 @@ std::getline(std::cin, name);
 ```
 
 ## Execution Model
+
+## Memory Model
