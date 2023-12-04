@@ -11,3 +11,22 @@
 - Compile Time Errors
 - Runtime Errors
 - Warnings
+
+## Input and Output
+```
+#import <iostream>
+
+std::string name;
+
+std::cout << "Please type in your name: " << std::endl;
+std::cin >> name;
+```
+
+### Reading data with spaces
+```
+std::string name;
+
+std::getline(std::cin, name);
+```
+
+## Execution Model
