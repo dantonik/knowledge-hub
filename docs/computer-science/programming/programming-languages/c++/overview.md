@@ -5,4 +5,9 @@
 
 [Branchless Programming in C++](https://www.youtube.com/watch?v=g-WPhYREFjk)
 
-[General C++(https://www.youtube.com/playlist?list=PLYmIsLVSssdLsw9ic8TV8wcEky5TGc4Ro)  
+[General C++](https://www.youtube.com/playlist?list=PLYmIsLVSssdLsw9ic8TV8wcEky5TGc4Ro)  
+
+## Errors and Warnings
+- Compile Time Errors
+- Runtime Errors
+- Warnings
