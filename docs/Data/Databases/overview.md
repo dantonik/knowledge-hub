@@ -16,3 +16,4 @@ Systematic data
 
 Tables - Relations  
 Columns - Attributes  
+Row - an instance  
