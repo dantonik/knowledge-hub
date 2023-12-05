@@ -10,6 +10,12 @@ Product Development Cycle
 - Retain & Support
 - Measure
 
+Product Life Cycle
+- Introduction
+- Growth
+- Maturity
+- Decline
+
 Customer
 - B2B
 - Internal
