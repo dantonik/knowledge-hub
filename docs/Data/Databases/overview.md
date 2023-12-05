@@ -13,3 +13,5 @@ A database looks like data organized systematically.
 Systematic data
 - Identifiable features or attributes
 - Stored in entities
+
+Tables - Relations  
