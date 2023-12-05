@@ -10,3 +10,6 @@ Product Development Cycle
 - Retain & Support
 - Measure
 
+Customer
+- B2B
+- Internal
