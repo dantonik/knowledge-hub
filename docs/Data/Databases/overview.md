@@ -8,3 +8,4 @@ Playlist [Intro to Database Systems](https://www.youtube.com/playlist?list=PLXPb
 
 [Datenbankenlernen](https://bigdata.uni-saarland.de/datenbankenlernen/)
 
+A database looks like data organized systematically.  
