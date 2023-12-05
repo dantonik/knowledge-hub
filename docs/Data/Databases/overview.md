@@ -15,3 +15,4 @@ Systematic data
 - Stored in entities
 
 Tables - Relations  
+Columns - Attributes  
