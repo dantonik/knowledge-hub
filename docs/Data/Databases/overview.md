@@ -17,3 +17,9 @@ Systematic data
 Tables - Relations  
 Columns - Fields - Attributes  
 Row - an instance  
+
+## CRUD operations
+- Create
+- Read
+- Update
+- Delete
