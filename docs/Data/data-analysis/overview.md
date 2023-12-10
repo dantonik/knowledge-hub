@@ -8,3 +8,4 @@
 General-purpose useful tool in numerical linear algebra for data processing  
 
 Data reduction tool  
+Data-driven generalization of Fourier trandsorm (FFT)  
