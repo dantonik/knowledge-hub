@@ -4,3 +4,5 @@
 - data reduction
 - dimensionality reduction
 - foundation of ML
+
+General-purpose useful tool in numerical linear algebra  
