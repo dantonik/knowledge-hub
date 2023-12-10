@@ -1,3 +1,5 @@
 # Overview
 
-Singular Value Decomposition  
+## Singular Value Decomposition
+- data reduction
+- dimensionality reduction
