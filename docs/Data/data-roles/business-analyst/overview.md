@@ -22,3 +22,7 @@ Preparation stage
 - feature engineering
 - build model
 - model production
+
+- analyze data
+- communicate findings
+
