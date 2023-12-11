@@ -9,3 +9,6 @@ Efficiency
 Customer Statisfaction
 - improve customer experience and encourage customer loyalty
 
+- descriptive analytics
+- predictive analytics
+- prescriptive analytics
