@@ -27,3 +27,9 @@ Goals
 - Operational goals
 - Financial goals
 - Culture/ workforce goals
+
+- optimized workflows
+- lower operational risk
+- standardized work and outcomes
+- accountability
+- employee empowerment
