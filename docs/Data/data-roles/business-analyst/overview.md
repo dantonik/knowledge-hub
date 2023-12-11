@@ -17,3 +17,8 @@ Analytical Products
 - collect data
 - explore data
 - prepare data
+
+Preparation stage  
+- feature engineering
+- build model
+- model production
