@@ -5,3 +5,6 @@ Gilbert Strang
 
 
 Singular Value Decomposition  
+
+## Matrices
+The order of a matrix could be 3x4 which means it has 3 rows and 4 columns.  
