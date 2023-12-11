@@ -22,3 +22,8 @@ KPI's
 - sales increase
 - health and safety performance
 - workforce retention rate
+
+Goals
+- Operational goals
+- Financial goals
+- Culture/ workforce goals
