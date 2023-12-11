@@ -11,3 +11,7 @@ Scope of Operations
 
 ## Business management
 Operational excellence (OpEx)  
+
+### Operational excellence
+- six sigma
+- kaizen
