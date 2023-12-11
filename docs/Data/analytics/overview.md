@@ -1,1 +1,3 @@
 # Overview
+
+Business analytics is the process of transforming data into insights that support, improve, and/or automate business decisions.  
