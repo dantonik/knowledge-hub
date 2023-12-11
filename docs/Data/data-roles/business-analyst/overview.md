@@ -7,3 +7,13 @@ Business Intelligence Analysts focus on market forces and external influences th
 Outcomes of Analytical Projects
 Reports and Dashboards  
 Analytical Products  
+
+## The Analytical Process
+- define the goals
+- inventory
+- create disfluency
+
+- define goal
+- collect data
+- explore data
+- prepare data
