@@ -10,4 +10,6 @@ Singular Value Decomposition
 The order of a matrix could be 3x4 which means it has 3 rows and 4 columns.  
 
 ## Tensors
+[Tensors for Beginners](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)  
 Tensor Calculus  
+[Tensor Calculus](https://www.youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)  
