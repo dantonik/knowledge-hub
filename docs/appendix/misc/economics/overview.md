@@ -8,3 +8,6 @@ Scope of Operations
 - Pay, get paid
 - Product Development
 - Customer Acquisition
+
+## Business management
+Operational excellence (OpEx)  
