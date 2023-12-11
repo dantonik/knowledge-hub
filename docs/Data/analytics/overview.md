@@ -6,3 +6,6 @@ Competition
 - increase revenue from products or services sold
 Efficiency
 - reduce costs of resources or internal processes
+Customer Statisfaction
+- improve customer experience and encourage customer loyalty
+
