@@ -18,3 +18,7 @@ Transactions
 - stored procedures
 - triggers
 - indexes
+
+## Formulas
+- same-row formulas
+- multi-row formulas
