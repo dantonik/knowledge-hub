@@ -22,3 +22,14 @@ Transactions
 ## Formulas
 - same-row formulas
 - multi-row formulas
+
+### Same-row formulas
+use existing rows to create new variables.  
+- average
+- floor
+- ceiling
+- square
+- square root
+- absolute value
+- trigonometric
+- logarithmic
