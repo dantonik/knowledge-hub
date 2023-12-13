@@ -58,3 +58,7 @@ Date
 - running total
 - lag value
 - lead value
+- window functions (sum, average, rank, ...)
+
+## Unions and Joins
+Union is also referred to as appending, concatenating, or combining two tables.  
