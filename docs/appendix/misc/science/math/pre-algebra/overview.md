@@ -42,3 +42,6 @@ x / 1 = x
 
 ## Average
 sum / num of values  
+
+## Exponents
+
