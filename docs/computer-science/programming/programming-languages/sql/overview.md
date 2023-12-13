@@ -46,3 +46,10 @@ Text
 - Trim
 - Index
 - Length
+
+Date
+- today
+- date part
+- date truncate
+- date add
+- date difference
