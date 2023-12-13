@@ -45,3 +45,6 @@ sum / num of values
 
 ## Exponents
 
+5^7  
+5 - base  
+7 - exponent  
