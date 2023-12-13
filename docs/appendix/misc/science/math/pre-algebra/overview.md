@@ -37,3 +37,8 @@ Distributive property.
 ## Division
 dividend / divisor = quotient  
 
+x / x = 1
+x / 1 = x
+
+## Average
+sum / num of values  
