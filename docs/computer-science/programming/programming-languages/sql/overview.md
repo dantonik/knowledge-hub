@@ -25,6 +25,8 @@ Transactions
 
 ### Same-row formulas
 use existing rows to create new variables.  
+
+Numeric
 - average
 - floor
 - ceiling
@@ -33,3 +35,14 @@ use existing rows to create new variables.
 - absolute value
 - trigonometric
 - logarithmic
+
+Text
+- extracting text
+- transforming text
+
+- Upper/Lower
+- Concatenate
+- Substring
+- Trim
+- Index
+- Length
