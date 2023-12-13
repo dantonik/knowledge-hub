@@ -62,3 +62,5 @@ Date
 
 ## Unions and Joins
 Union is also referred to as appending, concatenating, or combining two tables.  
+
+Joining is also called merging.  
