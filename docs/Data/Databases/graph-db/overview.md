@@ -5,3 +5,6 @@
 - network diagrams
 - fraud detection
 - access management
+
+- neo4j
+- CosmosDB
