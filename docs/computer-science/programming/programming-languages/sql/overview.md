@@ -53,3 +53,8 @@ Date
 - date truncate
 - date add
 - date difference
+
+### Multi-row formula
+- running total
+- lag value
+- lead value
