@@ -18,6 +18,7 @@ minuend - subtrahend = difference
 
 ## Perimeter
 The distance around a polygon.  
+Add up all sides.  
 
 Polygon - A closed shape with straight sides.  
 
@@ -32,3 +33,7 @@ Commutative property.
 Associative property.  
 
 Distributive property.  
+
+## Division
+dividend / divisor = quotient  
+
