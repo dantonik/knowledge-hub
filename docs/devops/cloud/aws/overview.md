@@ -10,3 +10,9 @@
 - Amazon OpenSearch Service
 - Amazon QuickSight
 - Amazon Athena
+
+## Compute
+- AWS Batch
+- Amazon EC2
+- AWS Lambda
+- AWS Serverless Application Repository
