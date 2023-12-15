@@ -8,7 +8,8 @@ sidebar_class_name: overview
 
 # Overview
 
-Data is a means of representation. It stands for things other than itself.  
+Data is a means of representation. It stands for things other than itself (Chisholm, 2010).  
+Data is both an interpretation of the objects it represents and an object that must be interpreted (Sebastian-Coleman, 2013).  
 
 [CMU Databse Group](https://www.youtube.com/@CMUDatabaseGroup)
 [CMU Intro to DBS](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
