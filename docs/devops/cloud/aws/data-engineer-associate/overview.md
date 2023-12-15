@@ -38,4 +38,17 @@ Combines the best of both worlds.
 ## Data Mesh
 Individual teams own "data products" within a given domain.  
 `Domain-based data management`  
+Federated governance with central standards is needed.  
 
+## ETL Pipelines
+
+### Transform
+- data cleansing
+- data enrichent
+- format changes
+- aggregations or computations
+- encoding or decoding data
+- handling missing values
+
+## Terms
+- Data integrity
