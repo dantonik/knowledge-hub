@@ -34,3 +34,6 @@ Combines the best of both worlds.
 - Delta Lake
 - Databricks Lakehouse Platform
 - Azure Synapse Analytics
+
+## Data Mesh
+Individual teams own "data products" within a given domain.  
