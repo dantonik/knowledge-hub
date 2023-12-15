@@ -57,5 +57,9 @@ Federated governance with central standards is needed.
 - Lambda
 - Glue Workflows
 
+## Data Sources
+- JDBC Connection
+- ODBC
+
 ## Terms
 - Data integrity
