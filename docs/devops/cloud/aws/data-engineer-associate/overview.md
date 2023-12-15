@@ -26,3 +26,11 @@ for example
 
 Schema-on-read (defined at the time of reading data)  
 ELT  
+
+## Data Lakehouse
+Combines the best of both worlds.  
+
+- AWS Lake Formation
+- Delta Lake
+- Databricks Lakehouse Platform
+- Azure Synapse Analytics
