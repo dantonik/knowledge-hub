@@ -37,3 +37,5 @@ Combines the best of both worlds.
 
 ## Data Mesh
 Individual teams own "data products" within a given domain.  
+`Domain-based data management`  
+
