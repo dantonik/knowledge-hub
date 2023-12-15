@@ -60,6 +60,9 @@ Federated governance with central standards is needed.
 ## Data Sources
 - JDBC Connection
 - ODBC
+- Raw logs
+- API's
+- Streams
 
 ## Terms
 - Data integrity
