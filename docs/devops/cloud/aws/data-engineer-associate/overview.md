@@ -50,5 +50,12 @@ Federated governance with central standards is needed.
 - encoding or decoding data
 - handling missing values
 
+## Orchestration
+- EventBridge
+- Amazon Managed Workflows for Apache Airflow (MWAA)
+- AWS Step Functions
+- Lambda
+- Glue Workflows
+
 ## Terms
 - Data integrity
