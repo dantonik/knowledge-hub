@@ -24,3 +24,5 @@ A BIE plays a crucial role in helping organizations make informed decisions by c
 
 ### Terms
 - data silo
+- competitive intelligence
+- dimensional modelling (DM)
