@@ -1,4 +1,5 @@
 # Overview
+BI is a technology-driven process for analyzing data and delivering actionable information.  
 
 ## Business Intelligence Engineer
 A BIE plays a crucial role in helping organizations make informed decisions by collecting, processing, and analyzing business data.  
@@ -11,3 +12,15 @@ A BIE plays a crucial role in helping organizations make informed decisions by c
 - creating data schemas
 - defining key metrics
 
+## Elements of BI
+- multidimensional aggregation and allocation
+- denormalization, tagging, and standardization
+- realtime reporting with analytical alert
+- group consolidation, budgeting, and rolling forecasts
+- statistical inference and probabilistic simulation
+- KPI optimization
+- version control and process management
+- open item management
+
+### Terms
+- data silo
