@@ -39,6 +39,8 @@ Measuring your KPIs over periods of time.
 ### Dimensions
 - qualitative
 - text (usually)
+- essential to visualize data
+- used to break down metrics
 
 ### Terms
 - data silo
