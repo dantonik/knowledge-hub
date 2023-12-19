@@ -17,6 +17,15 @@ A fact descibes quantitative transactional data.
 - metrics
 - values for analysis
 
+## Dimension
+Descriptive attributes for facts.  
+
+## Star schemas
+Dimension and fact tables together.  
+Data marts  
+
+- conformed dimensions
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
