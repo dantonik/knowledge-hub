@@ -33,6 +33,12 @@ Measuring your KPIs over periods of time.
 
 ### Metrics
 - quantitative
+- essential in all queries
+- always have aggregator attached (SUM,AVG,MIN,MAX,..)
+
+### Dimensions
+- qualitative
+- text (usually)
 
 ### Terms
 - data silo
