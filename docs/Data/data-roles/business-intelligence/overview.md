@@ -42,6 +42,9 @@ Measuring your KPIs over periods of time.
 - essential to visualize data
 - used to break down metrics
 
+## Requirements gathering
+- document based analysis
+
 ### Terms
 - data silo
 - competitive intelligence
