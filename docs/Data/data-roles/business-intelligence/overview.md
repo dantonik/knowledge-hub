@@ -50,8 +50,18 @@ Measuring your KPIs over periods of time.
 - workshops
 - prototyping
 
-## Business Process Modeling
+## Business Process Modeling (BPM)
 Data mining algorithms.  
+- Business process model notation (BPML)
+- Unified modeling language (UML)
+
+- event logs
+- process mining
+
+- control flow
+- data flow
+- performance metrics
+- resource utilization
 
 ### Terms
 - data silo
