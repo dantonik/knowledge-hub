@@ -22,6 +22,18 @@ A BIE plays a crucial role in helping organizations make informed decisions by c
 - version control and process management
 - open item management
 
+## KPIs
+
+## Periodicity
+Measuring your KPIs over periods of time.  
+
+## Data visualization
+- metrics
+- dimensions
+
+### Metrics
+- quantitative
+
 ### Terms
 - data silo
 - competitive intelligence
