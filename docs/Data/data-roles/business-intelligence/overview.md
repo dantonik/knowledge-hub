@@ -42,13 +42,16 @@ Measuring your KPIs over periods of time.
 - essential to visualize data
 - used to break down metrics
 
-## Requirements gathering
+## Requirements gathering/ Elicitation
 - document based analysis
 - surveys
 - shadowing
 - interviews
 - workshops
 - prototyping
+
+## Business Process Modeling
+Data mining algorithms.  
 
 ### Terms
 - data silo
