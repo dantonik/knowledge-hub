@@ -1,6 +1,7 @@
 # Overview
 
 Snowflake is a fully managed SaaS.  
+It's a cloud-based data warehousing platform.  
 
 - data warehouse
 - data lake
