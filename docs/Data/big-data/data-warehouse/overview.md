@@ -10,6 +10,13 @@ sidebar_class_name: overview
 
 A data warehouse is a computer system dedicated to storing and analyzing data to reveal trends, patterns, and correlations that provide information and insight.  
 
+## Fact
+A fact descibes quantitative transactional data.  
+
+- measurements
+- metrics
+- values for analysis
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
