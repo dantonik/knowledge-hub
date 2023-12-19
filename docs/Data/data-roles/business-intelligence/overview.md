@@ -44,6 +44,11 @@ Measuring your KPIs over periods of time.
 
 ## Requirements gathering
 - document based analysis
+- surveys
+- shadowing
+- interviews
+- workshops
+- prototyping
 
 ### Terms
 - data silo
