@@ -16,6 +16,8 @@ The db engine handles both semi-structured and structured data.
 - time travel
 - task scheduler
 - performance tuning
+- environment setup
+- data sharing
 
 ## Limitations
 Limited ETL.  
