@@ -36,6 +36,10 @@ Identify a Fact.
 - keys
 - numeric values
 
+Granularity example  
+- order
+- transaction
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
