@@ -16,3 +16,8 @@ A = B  C = B  A = C
 - if equals be subtracted from equals, the remainders are equals
 - things which coincide with one another, equal one another
 - the whole is greater than the part
+
+## Terms
+- Euclidean space
+- Spherics
+- hyperbolic space
