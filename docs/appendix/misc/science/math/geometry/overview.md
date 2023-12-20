@@ -9,3 +9,7 @@ Euclid's postulates (axioms)
 - to describe a circle with any centre and distance
 - all right angles are equal
 
+## Common Notions
+- things that are equal to the same thing are also equal to another
+A = B  C = B  A = C
+- if equals be added to equals, the wholes are equal
