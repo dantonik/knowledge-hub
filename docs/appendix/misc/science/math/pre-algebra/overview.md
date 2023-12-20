@@ -55,3 +55,7 @@ sum / num of values
 ## Algebraic Expressions
 
 ## Distributive property
+
+## Simple linear equations
+x + 4 = 11 | -4
+x + 0 = 7
