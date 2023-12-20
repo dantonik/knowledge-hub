@@ -47,6 +47,12 @@ If something has changed to the source dimension, we don't implement that in the
 
 - not important anymore
 
+### SCD 1
+We maintain the latest snapshot. We do not maintain the history.  
+
+### SCD 2
+Every time there is a change in the dimension, you add an additional row.  
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
