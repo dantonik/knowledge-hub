@@ -53,3 +53,5 @@ sum / num of values
 5^3 - `5 cubed`
 
 ## Algebraic Expressions
+
+## Distributive property
