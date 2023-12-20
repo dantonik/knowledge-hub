@@ -23,3 +23,8 @@ Row - an instance
 - Read
 - Update
 - Delete
+
+## Database Design Process
+- what kind of thing are we storing?
+- what properties does this thing have?
+- what type of data does each of those properties contain?
