@@ -26,6 +26,16 @@ Data marts
 
 - conformed dimensions
 
+## Steps
+- Idenrity a Fact
+- Determine Dimensions
+- Create Marts
+
+Identify a Fact.  
+- low granularity
+- keys
+- numeric values
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
