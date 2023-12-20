@@ -45,6 +45,8 @@ Granularity example
 ### SCD 0
 If something has changed to the source dimension, we don't implement that in the warehouse table.  
 
+- not important anymore
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
