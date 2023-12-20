@@ -40,6 +40,8 @@ Granularity example
 - order
 - transaction
 
+## Slowly Changing Dimensions (SCD)
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
