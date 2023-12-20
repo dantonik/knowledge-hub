@@ -57,5 +57,8 @@ sum / num of values
 ## Distributive property
 
 ## Simple linear equations
-x + 4 = 11 | -4
-x + 0 = 7
+x + 4 = 11 | -4  
+x + 0 = 7  
+
+3y = 18 | :3  
+y = 6  
