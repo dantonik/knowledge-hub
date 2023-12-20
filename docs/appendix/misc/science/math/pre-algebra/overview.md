@@ -51,3 +51,5 @@ sum / num of values
 
 5^2 - `5 squared` or `5 to the second power`  
 5^3 - `5 cubed`
+
+## Algebraic Expressions
