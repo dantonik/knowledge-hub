@@ -13,3 +13,6 @@ Euclid's postulates (axioms)
 - things that are equal to the same thing are also equal to another
 A = B  C = B  A = C
 - if equals be added to equals, the wholes are equal
+- if equals be subtracted from equals, the remainders are equals
+- things which coincide with one another, equal one another
+- the whole is greater than the part
