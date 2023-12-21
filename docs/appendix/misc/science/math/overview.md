@@ -12,3 +12,4 @@
 - Professor Leonard
 - [Algebra Tutorials](https://www.youtube.com/playlist?list=PLA5A1D544934F701B)
 
+- [Maths Partner](https://www.youtube.com/@MathPartner/featured)
