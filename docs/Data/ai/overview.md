@@ -6,3 +6,6 @@
 
 ## Transition model
 A description of what state results from performing any applicable action in any state.  
+
+## State space
+The set of all states reachable from the initial state by any sequence of actions.  
