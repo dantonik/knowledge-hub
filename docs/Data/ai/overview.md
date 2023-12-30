@@ -9,3 +9,6 @@ A description of what state results from performing any applicable action in any
 
 ## State space
 The set of all states reachable from the initial state by any sequence of actions.  
+
+## Goal test
+Way to determine whether a given state is a goal state.  
