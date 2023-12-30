@@ -22,3 +22,11 @@ Numerical cost associated with a given path.
 - transition model
 - goal test
 - path cost function
+
+## Node
+A data structure that keeps track of
+- a state
+- a parent
+- an action
+- a path cost (from initial state to node)
+
