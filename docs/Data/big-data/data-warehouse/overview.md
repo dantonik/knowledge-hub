@@ -56,6 +56,9 @@ Every time there is a change in the dimension, you add an additional row.
 ### SCD 3
 Every time there is a change in the dimension, you add an additional column. This is rarely used.  
 
+### SCD 4
+A table with the latest snapshot, and a history table with all the historical data.  
+
 #### Ressources
 
 [SAP What is a data warehouse?](https://www.sap.com/products/technology-platform/datasphere/what-is-a-data-warehouse.html)  
