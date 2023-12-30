@@ -12,3 +12,13 @@ The set of all states reachable from the initial state by any sequence of action
 
 ## Goal test
 Way to determine whether a given state is a goal state.  
+
+## Path cost
+Numerical cost associated with a given path.  
+
+## Search problems
+- initial state
+- actions
+- transition model
+- goal test
+- path cost function
