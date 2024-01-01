@@ -8,6 +8,11 @@ BI is the act of transforming raw/ operational data into useful information for 
 - Data Analysis
 - Business Action
 
+## Soft skills
+- Communication skills
+- Presentation skills
+- People skills
+
 ## Business Intelligence Engineer
 A BIE plays a crucial role in helping organizations make informed decisions by collecting, processing, and analyzing business data.  
 
