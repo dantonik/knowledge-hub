@@ -1,6 +1,8 @@
 # Overview
 BI is a technology-driven process for analyzing data and delivering actionable information.  
 
+BI is the act of transforming raw/ operational data into useful information for business analysis.  
+
 - Planning
 - Data Gathering
 - Data Analysis
