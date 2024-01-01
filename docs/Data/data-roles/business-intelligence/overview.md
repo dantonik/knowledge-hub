@@ -80,6 +80,12 @@ Data mining algorithms.
 - performance metrics
 - resource utilization
 
+## Data mining
+Can be used to
+- group sets of data
+- find outliers
+- draw connections
+
 ### Terms
 - data silo
 - competitive intelligence
