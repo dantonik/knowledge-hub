@@ -92,9 +92,9 @@ Can be used to
 - reveal unknown inefficencies
 
 Three main forms  
-- descriptive
-- predictive
-- decision
+- Descriptive Analytics
+- Predictive Analytics
+- Decision Analytics
 
 ### Terms
 - data silo
