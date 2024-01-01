@@ -91,6 +91,11 @@ Can be used to
 - gain competitive advantages
 - reveal unknown inefficencies
 
+Three main forms  
+- descriptive
+- predictive
+- decision
+
 ### Terms
 - data silo
 - competitive intelligence
