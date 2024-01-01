@@ -3,12 +3,15 @@ BI is a technology-driven process for analyzing data and delivering actionable i
 
 BI is the act of transforming raw/ operational data into useful information for business analysis.  
 
+The term business intelligence came around the 1950s, and it grew out of technology called decision support.  
+
 - Planning
 - Data Gathering
 - Data Analysis
 - Business Action
 
 Requirement analysis and requirement documentation.  
+Prepare business proposals.  
 
 ## Soft skills
 - Communication skills
