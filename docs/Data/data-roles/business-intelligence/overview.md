@@ -80,11 +80,16 @@ Data mining algorithms.
 - performance metrics
 - resource utilization
 
-## Data mining
+## Data Mining
 Can be used to
 - group sets of data
 - find outliers
 - draw connections
+
+## Business Analytics
+- predict future trends
+- gain competitive advantages
+- reveal unknown inefficencies
 
 ### Terms
 - data silo
