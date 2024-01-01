@@ -8,6 +8,8 @@ BI is the act of transforming raw/ operational data into useful information for 
 - Data Analysis
 - Business Action
 
+Requirement analysis and requirement documentation.  
+
 ## Soft skills
 - Communication skills
 - Presentation skills
