@@ -56,3 +56,5 @@ Four main features
 - face value (price you're buying it for plus interest rate)
 - coupon/ interest rate
 - maturity rate
+
+Bonds are inversely related to interest rates in the market.  
