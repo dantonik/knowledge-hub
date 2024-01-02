@@ -40,5 +40,6 @@ ROI measures the amount of return of an investment relative to the amount invest
 ROI = (current value of investment - cost of investment) / cost of investment  
 
 ## Time Value of Money
+Continuous Compounding  
 
 ## Net Present Value
