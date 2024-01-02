@@ -49,3 +49,10 @@ Inflows vs Outflows
 Discount rate  
 
 ## Equity
+
+## Bonds
+Four main features
+- issue price
+- face value (price you're buying it for plus interest rate)
+- coupon/ interest rate
+- maturity rate
