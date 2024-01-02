@@ -110,6 +110,12 @@ Tier 3 (Analysis)
 - data mining
 - optimization
 
+## Cycle of BI analysis
+- analysis
+- insight
+- decision
+- evaluation
+
 ### Terms
 - data silo
 - competitive intelligence
