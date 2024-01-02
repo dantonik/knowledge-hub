@@ -39,7 +39,8 @@ ROI measures the amount of return of an investment relative to the amount invest
 
 ROI = (current value of investment - cost of investment) / cost of investment  
 
-## Time Value of Money
+## Time Value of Money (TVM)
 Continuous Compounding  
+Money is worth more today than in the future.  
 
 ## Net Present Value
