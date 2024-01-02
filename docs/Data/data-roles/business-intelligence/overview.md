@@ -96,6 +96,14 @@ Three main forms
 - Predictive Analytics
 - Decision Analytics
 
+## BI architecture
+Tier 1
+- operational systems
+- external data
+Tier 2
+- ETL tools
+- DWH
+
 ### Terms
 - data silo
 - competitive intelligence
