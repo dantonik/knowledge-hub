@@ -35,6 +35,7 @@ Goals
 - employee empowerment
 
 ## Return on investment (ROI)
+ROI measures the amount of return of an investment relative to the amount invested.  
 
 ## Time Value of Money
 
