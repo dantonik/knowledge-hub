@@ -44,3 +44,4 @@ Continuous Compounding
 Money is worth more today than in the future.  
 
 ## Net Present Value
+Inflows vs Outflows  
