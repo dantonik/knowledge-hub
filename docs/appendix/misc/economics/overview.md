@@ -37,6 +37,8 @@ Goals
 ## Return on investment (ROI)
 ROI measures the amount of return of an investment relative to the amount invested.  
 
+ROI = (current value of investment - cost of investment) / cost of investment  
+
 ## Time Value of Money
 
 ## Net Present Value
