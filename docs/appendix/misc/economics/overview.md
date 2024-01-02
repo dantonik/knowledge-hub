@@ -43,5 +43,7 @@ ROI = (current value of investment - cost of investment) / cost of investment
 Continuous Compounding  
 Money is worth more today than in the future.  
 
-## Net Present Value
+## Net Present Value (NPV)
 Inflows vs Outflows  
+
+Discount rate  
