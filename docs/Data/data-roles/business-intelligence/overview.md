@@ -103,6 +103,12 @@ Tier 1
 Tier 2
 - ETL tools
 - DWH
+Tier 3 (Analysis)
+- multidimensional cubes
+- exploratory data analysis
+- time series analysis
+- data mining
+- optimization
 
 ### Terms
 - data silo
