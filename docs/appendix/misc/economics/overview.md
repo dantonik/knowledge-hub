@@ -47,3 +47,5 @@ Money is worth more today than in the future.
 Inflows vs Outflows  
 
 Discount rate  
+
+## Equity
