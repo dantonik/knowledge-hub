@@ -33,3 +33,9 @@ Goals
 - standardized work and outcomes
 - accountability
 - employee empowerment
+
+## Return on investment (ROI)
+
+## Time Value of Money
+
+## Net Present Value
