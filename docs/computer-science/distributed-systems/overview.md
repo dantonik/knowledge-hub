@@ -25,6 +25,8 @@ Order Theory
 - joins
 - join semi-lattices
 
+G-Counter (grow only counter)  
+
 ### Books
 
 Distributed Systems: Concepts and Design, by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (Addison Wesley; 5th edition, 2012);
