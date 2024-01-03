@@ -23,6 +23,12 @@ Optimized for low latency queries.
 ### HBase
 A real-time database, built on top of HDFS.  
 
+### Hue
+Graphical frontend to the cluster.  
+
+### Oozie
+A workflow management tool.  
+
 ### Mahout
 For creating scalable performant ML applications.  
 A distributed linear algebra framework and mathematically expressive Scala DSL.  
