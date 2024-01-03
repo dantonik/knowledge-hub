@@ -26,6 +26,7 @@ Order Theory
 - join semi-lattices
 
 G-Counter (grow only counter)  
+Monotonic join semi-lattice  
 
 ### Books
 
