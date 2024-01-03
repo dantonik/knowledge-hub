@@ -32,3 +32,9 @@ A workflow management tool.
 ### Mahout
 For creating scalable performant ML applications.  
 A distributed linear algebra framework and mathematically expressive Scala DSL.  
+
+## Commands
+```
+> hadoop fs -ls
+> hadoop fs -put <file>
+```
