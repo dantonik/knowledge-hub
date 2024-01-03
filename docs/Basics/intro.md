@@ -28,7 +28,11 @@ est. 26th of September
 [Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)  
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)  
 
+[Intro to Hadoop and MapReduce](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)  
+
 [Intro to Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt)  
+[Intro to Descriptive Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)  
+[Intro to Inferential Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnVUrK_vL3r9tP6kuwAEzgQ)  
 [Knowledge Based AI](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkdANSntXhY0btWkpPglDGD)  
 
 [Python Overview](../computer-science/programming/programming-languages/python/overview.md)  
