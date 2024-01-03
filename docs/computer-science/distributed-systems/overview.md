@@ -40,6 +40,10 @@ Monotonic join semi-lattice
 ## Application event log
 
 ## Change Data Capture (CDC)
+Database native tools
+- MongoDB Oplog
+- MySQL Changelog
+- PostgreSQL Changelog
 
 ### Books
 
