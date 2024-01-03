@@ -29,6 +29,7 @@ G-Counter (grow only counter)
 Monotonic join semi-lattice  
 
 [CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw)  
+[CRDTS The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)  
 
 ### Books
 
