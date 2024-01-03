@@ -1,14 +1,15 @@
 # Overview
 
 A set of cooperating computers that are communicating with each other over network to get some coherent task done.  
-### What does it try to achive?
+
+## What does it try to achive?
 - parallelism
 - fault tolerance
 - physical
 - security/ isolation
 - performance
 
-### Challenges
+## Challenges
 - concurrency
 - partial failure
 
@@ -16,7 +17,10 @@ A set of cooperating computers that are communicating with each other over netwo
 
 Distributed Lock Server
 
-#### Books
+## Conflict-free Replicated Data Types (CRDT)
+
+
+### Books
 
 Distributed Systems: Concepts and Design, by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (Addison Wesley; 5th edition, 2012);
 
