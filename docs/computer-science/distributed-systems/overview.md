@@ -13,6 +13,8 @@ A set of cooperating computers that are communicating with each other over netwo
 - concurrency
 - partial failure
 
+Coordination is slow and complex.  
+
 [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)  
 
 Distributed Lock Server
