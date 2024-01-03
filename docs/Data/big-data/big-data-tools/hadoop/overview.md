@@ -11,14 +11,17 @@
 - Impala
 - Mahout
 
-## Pig and Hive
+### Pig and Hive
 Hive queries are very much like standard SQL. Easier to use than MapReduce.  
 
 Hive is optimized for running long batch jobs.  
 
-## Impala
+### Impala
 Directly query HDFS files without the need to use MapReduce.  
 Optimized for low latency queries.  
+
+### HBase
+A real-time database, built on top of HDFS.  
 
 ### Mahout
 For creating scalable performant ML applications.  
