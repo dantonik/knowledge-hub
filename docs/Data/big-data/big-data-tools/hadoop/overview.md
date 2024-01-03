@@ -3,6 +3,11 @@
 ## HDFS
 
 ## MapReduce
+- Mappers
+- Reducers
+
+Intermediate records (key, value)  
+Shuffle and sort  
 
 ## Hadoop Ecosystem
 - Pig
