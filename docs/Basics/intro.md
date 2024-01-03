@@ -19,6 +19,14 @@ est. 26th of September
 
 :::
 
+## Basics
+[Design of Computer Programs](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnJVtPvZZ5zXj_wRBjH0FxX)  
+[Introduction to Algorithms](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU)  
+[High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)  
+[SQL for Data Analysis](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmYmOSXJjwfeZXcqIyYFb0d)  
+[Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)  
+[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)  
+
 [Python Overview](../computer-science/programming/programming-languages/python/overview.md)  
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)  
 
