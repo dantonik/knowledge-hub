@@ -9,6 +9,9 @@
 Intermediate records (key, value)  
 Shuffle and sort  
 
+- job tracker
+- task tracker (on each data node)
+
 ## Hadoop Ecosystem
 - Pig
 - Hive
