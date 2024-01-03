@@ -46,3 +46,11 @@ A distributed linear algebra framework and mathematically expressive Scala DSL.
 > hadoop fs -ls
 > hadoop fs -put <file>
 ```
+
+```
+> hadoop jar </path/to/a/jar> -mapper mapper.py -reducer reducer.py -file mapper.py -file reducer.py -input myinput -output joboutput
+```
+Simplified version
+```
+hs mapper.py reducer.py myinput joboutput
+```
