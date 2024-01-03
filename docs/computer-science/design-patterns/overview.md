@@ -7,6 +7,10 @@ Handles requests delivered concurrently. Dispatches synchronously to handlers.
 - epoll
 
 ## Proactor
+Fully asynchronous  
+
+- Linux AIO
+- Windows IOCP
 
 ## Singleton
 
