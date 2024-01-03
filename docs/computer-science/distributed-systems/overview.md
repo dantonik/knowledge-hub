@@ -45,6 +45,13 @@ Database native tools
 - MySQL Changelog
 - PostgreSQL Changelog
 
+## Event-first
+- EDA
+- CQRS
+
+## Asynchronous Event Handling
+[Patterns and Frameworks for Asynchronous Event Handling](https://www.youtube.com/watch?v=2rGOX8Oy7-Q)  
+
 ### Books
 
 Distributed Systems: Concepts and Design, by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (Addison Wesley; 5th edition, 2012);
