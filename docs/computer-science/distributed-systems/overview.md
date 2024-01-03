@@ -34,6 +34,13 @@ Monotonic join semi-lattice
 [CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw)  
 [CRDTS The Hard Parts](https://www.youtube.com/watch?v=x7drE24geUw)  
 
+## Saga pattern
+- compensation 'delete' operations
+
+## Application event log
+
+## Change Data Capture (CDC)
+
 ### Books
 
 Distributed Systems: Concepts and Design, by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (Addison Wesley; 5th edition, 2012);
