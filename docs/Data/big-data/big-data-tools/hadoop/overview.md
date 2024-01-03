@@ -12,7 +12,13 @@
 - Mahout
 
 ## Pig and Hive
-Very much like standard SQL. Easier to use than MapReduce.  
+Hive queries are very much like standard SQL. Easier to use than MapReduce.  
+
+Hive is optimized for running long batch jobs.  
+
+## Impala
+Directly query HDFS files without the need to use MapReduce.  
+Optimized for low latency queries.  
 
 ### Mahout
 For creating scalable performant ML applications.  
