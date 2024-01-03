@@ -54,3 +54,6 @@ Simplified version
 ```
 hs mapper.py reducer.py myinput joboutput
 ```
+
+## Test VM
+[Transferring files back and forth to the VM](https://docs.google.com/document/d/1MZ_rNxJhR4HCU1qJ2-w7xlk2MTHVqa9lnl_uj-zRkzk/pub)  
