@@ -22,10 +22,12 @@ est. 26th of September
 ## Basics
 [Design of Computer Programs](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnJVtPvZZ5zXj_wRBjH0FxX)  
 [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU)  
+[Software Architecture & Design](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)  
 [High Performance Computing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)  
 [High Performance Computer Architecture](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmqpjgrmf4-DGlaeV0om4iP)  
 [SQL for Data Analysis](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmYmOSXJjwfeZXcqIyYFb0d)  
 [Intro to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2)  
+[Introduction to Parallel Programming](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm0z11jGTXRF7RuEEAgsIwH)  
 [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)  
 
 [Intro to Hadoop and MapReduce](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)  
@@ -33,7 +35,9 @@ est. 26th of September
 [Intro to Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt)  
 [Intro to Descriptive Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn22DmaF6x8JtG4TeWOJk_1)  
 [Intro to Inferential Statistics](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnVUrK_vL3r9tP6kuwAEzgQ)  
+[Intro to Relational Databases](https://www.youtube.com/playlist?list=PLAwxTw4SYaPm4R6j_wzVOCV9fJaiQDYx4)  
 [Knowledge Based AI](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkdANSntXhY0btWkpPglDGD)  
+[Harvard CS50 AI](https://www.youtube.com/watch?v=5NgNicANyqM)  
 
 [Python Overview](../computer-science/programming/programming-languages/python/overview.md)  
 [Algorithms for Competitive Programming](https://cp-algorithms.com/)  
