@@ -28,6 +28,8 @@ Order Theory
 G-Counter (grow only counter)  
 Monotonic join semi-lattice  
 
+[CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw)  
+
 ### Books
 
 Distributed Systems: Concepts and Design, by George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. (Addison Wesley; 5th edition, 2012);
