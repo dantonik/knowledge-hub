@@ -19,6 +19,9 @@ Coordination is slow and complex.
 
 Distributed Lock Server
 
+## Consistency
+Strong consistency vs eventual consistency  
+
 ## Conflict-free Replicated Data Types (CRDT)
 Order Theory
 - total and partial orders
