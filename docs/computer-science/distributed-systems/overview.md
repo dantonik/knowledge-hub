@@ -20,7 +20,10 @@ Coordination is slow and complex.
 Distributed Lock Server
 
 ## Conflict-free Replicated Data Types (CRDT)
-
+Order Theory
+- total and partial orders
+- joins
+- join semi-lattices
 
 ### Books
 
