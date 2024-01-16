@@ -55,3 +55,25 @@ f = &Sample::bar;
 ```
 
 ## Operator overloading
+
+```
+Vector2 operator*(const Vector2& other) const
+{
+	return Vector2(x * other.x, y * other.y);
+}
+```
+```
+bool operator==(const Vector2& other) const
+{
+	return x==other.x && y == other.y;
+}
+```
+
+outside the class  
+```
+std::ostream& operator<<(std::ostream& stream, const Vector2& other)
+{
+	stream << other.x << ", " << other.y;
+	return stream;
+}
+```
