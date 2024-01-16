@@ -142,3 +142,11 @@ std::ofstream ofs("test.out");
 
 ## Function overloading
 ad-hoc polymorphism
+
+## Canonical Form
+```
+	Sample();
+	Sample( Sample const & src );
+	~Sample();
+	Sample & operator=( Sample const & rhs );
+```
