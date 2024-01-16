@@ -77,3 +77,31 @@ std::ostream& operator<<(std::ostream& stream, const Vector2& other)
 	return stream;
 }
 ```
+
+## Constructor Inheritance
+```
+Drink(double set_ounces) : MenuItem("name")
+{
+	ounces = set_ounces;
+};
+```
+
+## New and delete
+```
+Student bob = Student();
+Student* jim = Student();
+```
+allocate an array of objects
+```
+Student* students = new Student[42];
+
+delete [] students;
+```
+
+## References
+```
+int numBalls = 42
+
+int* ballsPtr = &numBalls;
+int& ballsRef = numBalls
+```
