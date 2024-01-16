@@ -32,3 +32,24 @@ std::getline(std::cin, name);
 ## Execution Model
 
 ## Memory Model
+
+## Initialization List
+
+## Pointers to members
+```
+Sample instance;
+Sample* instanced = &instance;
+
+Int Sample::*p = NULL;
+P = &Sample::foo;
+
+instance.*p = 21;
+instancep->*p = 42;
+
+void (Sample::*f)(void) const;
+
+f = &Sample::bar;
+
+(Instance.*f)();
+(instancep->*f)();
+```
