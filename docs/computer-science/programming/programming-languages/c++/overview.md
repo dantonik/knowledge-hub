@@ -78,6 +78,11 @@ std::ostream& operator<<(std::ostream& stream, const Vector2& other)
 }
 ```
 
+assignment operator
+```
+	Integer& operator=(Integer const & rhs);
+```
+
 ## Constructor Inheritance
 ```
 Drink(double set_ounces) : MenuItem("name")
@@ -135,5 +140,5 @@ std::ifstream ifs("numbers");
 std::ofstream ofs("test.out");
 ```
 
-## Function overlading
+## Function overloading
 ad-hoc polymorphism
