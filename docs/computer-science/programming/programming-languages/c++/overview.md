@@ -134,3 +134,6 @@ std::ifstream ifs("numbers");
 
 std::ofstream ofs("test.out");
 ```
+
+## Function overlading
+ad-hoc polymorphism
