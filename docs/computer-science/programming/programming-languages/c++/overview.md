@@ -105,3 +105,23 @@ int numBalls = 42
 int* ballsPtr = &numBalls;
 int& ballsRef = numBalls
 ```
+pass by reference
+```
+void byRef(std::string& str)
+{
+	str += " and...";
+}
+
+void byConstRef(std::string const& str)
+{
+	std::cout << str << std:endl;
+}
+
+int main()
+{
+	std::string str = "test string!";
+
+	byRef(str);
+	byConstRef(str);
+}
+```
