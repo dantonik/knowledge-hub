@@ -125,3 +125,12 @@ int main()
 	byConstRef(str);
 }
 ```
+
+## Filestreams
+```
+#include <fstream>
+
+std::ifstream ifs("numbers");
+
+std::ofstream ofs("test.out");
+```
