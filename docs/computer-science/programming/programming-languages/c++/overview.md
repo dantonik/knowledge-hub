@@ -53,3 +53,5 @@ f = &Sample::bar;
 (Instance.*f)();
 (instancep->*f)();
 ```
+
+## Operator overloading
