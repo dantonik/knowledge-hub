@@ -2,6 +2,10 @@
 
 In-process SQL database engine.
 
+## Commands
+`.quit`  
+`.tables`
+
 #### Modes/ Isolation Levels
 - Deferred
 - Immediate
