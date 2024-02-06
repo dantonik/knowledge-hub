@@ -1,5 +1,5 @@
-# Bill Inmon
-recognized by many as the father of data warehouse.  
+# Overview
+Bill Inmon is recognized by many as the father of data warehouse.  
 
 ## Sources
 `Book` Building the Data Warehouse (1992)  
