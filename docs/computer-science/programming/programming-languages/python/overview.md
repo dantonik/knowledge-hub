@@ -430,3 +430,11 @@ It's faster and it makes the code more concise.
 
 
 ### Lambda Expressions
+```
+def double(x):
+	return x * 2
+```
+is equivalent to
+```
+double = lambda x: x * 2
+```
