@@ -427,3 +427,6 @@ You could write this
 processed_tables = [table for table in data_pipelines]
 ```
 It's faster and it makes the code more concise.  
+
+
+### Lambda Expressions
