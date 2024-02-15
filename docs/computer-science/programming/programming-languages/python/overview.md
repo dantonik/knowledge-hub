@@ -441,3 +441,8 @@ double = lambda x: x * 2
 
 #### Lambda with Map
 `map()` is a higher-order built-in function.  
+```
+averages = list(map(lambda num_list: sum(num_list) / len(num_list), numbers))
+
+short_cities = list(filter(lambda n: len(n) < 10, cities))
+```
