@@ -438,3 +438,6 @@ is equivalent to
 ```
 double = lambda x: x * 2
 ```
+
+#### Lambda with Map
+`map()` is a higher-order built-in function.  
