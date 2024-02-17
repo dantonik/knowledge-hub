@@ -15,6 +15,11 @@ document.getElementById("demo").style.display = "block";
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
 
+Scripts can be placed in external files  
+```
+ <script src="myScript.js"></script> 
+```
+
 ## Functions
 
 ## Events
