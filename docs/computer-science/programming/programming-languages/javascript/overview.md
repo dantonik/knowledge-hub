@@ -12,6 +12,12 @@ document.getElementById("demo").style.display = "none";
 document.getElementById("demo").style.display = "block";
 ```
 
+multiple statements on one line
+```
+a = 5; b = 6; c = a + b;
+```
+
+
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
 
