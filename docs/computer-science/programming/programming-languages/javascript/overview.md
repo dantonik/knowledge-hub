@@ -1,5 +1,6 @@
 # JavaScript
 
+JavaScript types are dynamic.  
 
 `getElementById()`  
 
