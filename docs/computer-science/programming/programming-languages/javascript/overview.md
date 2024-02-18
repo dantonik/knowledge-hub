@@ -21,6 +21,19 @@ Scripts can be placed in external files
 ```
 
 ## Functions
+Function declaration
+```
+function makeBla() {
+	return "Bla";
+}
+```
+
+Function expression
+```
+const makeBla = function() {
+	return "Bla";
+}
+```
 
 ### Arrow functions
 
