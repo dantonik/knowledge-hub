@@ -22,4 +22,10 @@ Scripts can be placed in external files
 
 ## Functions
 
+### Arrow functions
+
+### Closures
+
+### Higher-order functions
+
 ## Events
