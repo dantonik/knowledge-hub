@@ -17,6 +17,10 @@ multiple statements on one line
 a = 5; b = 6; c = a + b;
 ```
 
+you can declare many variables in one statement
+```
+let person = "John Doe", carName = "Volvo", price = 200;
+```
 
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
