@@ -35,6 +35,13 @@ const makeBla = function() {
 }
 ```
 
+### Immediately Invocable Function Expressions
+```
+(function () {
+	...
+})();
+```
+
 ### Arrow functions
 
 ### Closures
