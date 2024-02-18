@@ -23,11 +23,23 @@ let person = "John Doe", carName = "Volvo", price = 200;
 ```
 
 ## Variables
+
+The keyword `const` defines a constant reference to  a value.  
 Use const when you declare:
 - array
 - object
 - function
 - RegExp
+
+## Operators
+- arithmetic operators
+- assignment operators
+- comparison operators
+- string operators
+- logical operators
+- bitwise operators
+- ternary operators
+- type operators
 
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
