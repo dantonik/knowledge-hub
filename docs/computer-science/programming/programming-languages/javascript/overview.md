@@ -22,6 +22,13 @@ you can declare many variables in one statement
 let person = "John Doe", carName = "Volvo", price = 200;
 ```
 
+## Variables
+Use const when you declare:
+- array
+- object
+- function
+- RegExp
+
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
 
