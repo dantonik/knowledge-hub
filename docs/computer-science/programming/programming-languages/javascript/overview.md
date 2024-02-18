@@ -1,6 +1,10 @@
 # JavaScript
 
 JavaScript types are dynamic.  
+A variable without a value has the value undefined.  
+```
+let car; // value is undefined, type is undefined
+```
 
 `getElementById()`  
 
