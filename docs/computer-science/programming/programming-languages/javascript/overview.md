@@ -83,3 +83,4 @@ const makeBla = function() {
 ### Higher-order functions
 
 ## Events
+An HTML event can be something the browser does, or something a user does.  
