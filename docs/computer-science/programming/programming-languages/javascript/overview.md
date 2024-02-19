@@ -36,6 +36,12 @@ Use const when you declare:
 - function
 - RegExp
 
+### Strings
+Template Strings were introduced with ES6 (JavaScript 2016).  
+```
+let text = `He's often called "Johnny"`;
+```
+
 ## Operators
 - arithmetic operators
 - assignment operators
@@ -89,4 +95,13 @@ An HTML event can be something the browser does, or something a user does.
 
 <button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
 ```
+
+### Common Event
+- onchange
+- onclick
+- onmouseover
+- onmouseout
+- onkeydown
+- onload
+
 
