@@ -84,3 +84,7 @@ const makeBla = function() {
 
 ## Events
 An HTML event can be something the browser does, or something a user does.  
+```
+<element event='some JavaScript'>
+```
+
