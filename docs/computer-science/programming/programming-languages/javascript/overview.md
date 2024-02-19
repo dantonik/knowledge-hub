@@ -86,5 +86,7 @@ const makeBla = function() {
 An HTML event can be something the browser does, or something a user does.  
 ```
 <element event='some JavaScript'>
+
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
 ```
 
