@@ -57,6 +57,12 @@ Slice
 let text = "Hello World!";
 let text = "Hello World!".slice(0, 5); // Hello
 ```
+Split & join
+```javascript
+let text = "a,b,c,d";
+let text = "a,b,c,d".split(","); // ["a", "b", "c", "d"]
+let text = ["a", "b", "c", "d"].join(","); // a,b,c,d
+```
 
 ## Operators
 - arithmetic operators
