@@ -1,12 +1,12 @@
 # JavaScript
 
-JavaScript types are dynamic.  
-A variable without a value has the value undefined.  
+JavaScript types are dynamic.
+A variable without a value has the value undefined.
 ```
 let car; // value is undefined, type is undefined
 ```
 
-`getElementById()`  
+`getElementById()`
 
 ```
 document.getElementById("demo").innerHTML = "Hello JavaScript";
@@ -29,7 +29,7 @@ let person = "John Doe", carName = "Volvo", price = 200;
 
 ## Variables
 
-The keyword `const` defines a constant reference to  a value.  
+The keyword `const` defines a constant reference to  a value.
 Use const when you declare:
 - array
 - object
@@ -37,7 +37,7 @@ Use const when you declare:
 - RegExp
 
 ### Strings
-Template Strings were introduced with ES6 (JavaScript 2016).  
+Template Strings were introduced with ES6 (JavaScript 2016).
 ```
 let text = `He's often called "Johnny"`;
 ```
@@ -52,12 +52,16 @@ let text = `He's often called "Johnny"`;
 - ternary operators
 - type operators
 
-## Script
-Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.  
+### Equality operators
+- `===` strict equality (type and value)
+- `==` loose equality (value)
 
-Scripts can be placed in external files  
+## Script
+Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.
+
+Scripts can be placed in external files
 ```
- <script src="myScript.js"></script> 
+ <script src="myScript.js"></script>
 ```
 
 ## Functions
@@ -89,7 +93,7 @@ const makeBla = function() {
 ### Higher-order functions
 
 ## Events
-An HTML event can be something the browser does, or something a user does.  
+An HTML event can be something the browser does, or something a user does.
 ```
 <element event='some JavaScript'>
 
@@ -103,5 +107,3 @@ An HTML event can be something the browser does, or something a user does.
 - onmouseout
 - onkeydown
 - onload
-
-
