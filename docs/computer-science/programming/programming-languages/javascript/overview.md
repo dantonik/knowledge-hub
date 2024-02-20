@@ -93,6 +93,12 @@ let text = " Hello World! ".trim(); // Hello World!
 - `===` strict equality (type and value)
 - `==` loose equality (value)
 
+## Type conversion
+- `Number()`
+- `String()`
+- `Boolean()`
+- `parseInt()` and `parseFloat()`
+
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.
 
