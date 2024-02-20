@@ -42,6 +42,10 @@ Template Strings were introduced with ES6 (JavaScript 2016).
 let text = `He's often called "Johnny"`;
 ```
 
+```javascript
+let fullName = "John".concat(" ", "Doe");
+```
+
 ## Operators
 - arithmetic operators
 - assignment operators
