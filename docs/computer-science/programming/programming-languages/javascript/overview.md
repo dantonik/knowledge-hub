@@ -49,13 +49,13 @@ let fullName = "John".concat(" ", "Doe");
 Cases
 ```javascript
 let text = "Hello World!";
-let text = "Hello World!".toUpperCase();
-let text = "Hello World!".toLowerCase();
+let text = "Hello World!".toUpperCase(); // HELLO WORLD!
+let text = "Hello World!".toLowerCase(); // hello world!
 ```
 Slice
 ```javascript
 let text = "Hello World!";
-let text = "Hello World!".slice(0, 5);
+let text = "Hello World!".slice(0, 5); // Hello
 ```
 
 ## Operators
