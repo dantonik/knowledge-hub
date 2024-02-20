@@ -52,6 +52,11 @@ let text = "Hello World!";
 let text = "Hello World!".toUpperCase();
 let text = "Hello World!".toLowerCase();
 ```
+Slice
+```javascript
+let text = "Hello World!";
+let text = "Hello World!".slice(0, 5);
+```
 
 ## Operators
 - arithmetic operators
