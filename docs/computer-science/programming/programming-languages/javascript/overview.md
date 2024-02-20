@@ -96,8 +96,10 @@ let text = " Hello World! ".trim(); // Hello World!
 ## Type conversion
 - `Number()`
 - `String()`
+- `.toString()`
 - `Boolean()`
 - `parseInt()` and `parseFloat()`
+- money = +money
 
 ## Script
 Placing scripts at the bottom of the <body> element improves the display speed, because script interpretation slows down the display.
