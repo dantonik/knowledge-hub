@@ -68,7 +68,16 @@ Includes
 let text = "Hello World!";
 let text = "Hello World!".includes("World"); // true
 ```
-
+Replace
+```javascript
+let text = "Hello World!";
+let text = "Hello World!".replace("World", "Universe"); // Hello Universe!
+```
+Trim
+```javascript
+let text = " Hello World! ";
+let text = " Hello World! ".trim(); // Hello World!
+```
 
 ## Operators
 - arithmetic operators
