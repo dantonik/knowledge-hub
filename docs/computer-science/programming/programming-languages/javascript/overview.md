@@ -63,6 +63,12 @@ let text = "a,b,c,d";
 let text = "a,b,c,d".split(","); // ["a", "b", "c", "d"]
 let text = ["a", "b", "c", "d"].join(","); // a,b,c,d
 ```
+Includes
+```javascript
+let text = "Hello World!";
+let text = "Hello World!".includes("World"); // true
+```
+
 
 ## Operators
 - arithmetic operators
