@@ -41,9 +41,16 @@ Template Strings were introduced with ES6 (JavaScript 2016).
 ```
 let text = `He's often called "Johnny"`;
 ```
-
+Concatenation
 ```javascript
+let fullName = "John" + " " + "Doe";
 let fullName = "John".concat(" ", "Doe");
+```
+Cases
+```javascript
+let text = "Hello World!";
+let text = "Hello World!".toUpperCase();
+let text = "Hello World!".toLowerCase();
 ```
 
 ## Operators
